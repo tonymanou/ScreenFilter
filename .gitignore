@@ -1,0 +1,17 @@
+# built application files
+*.jar
+*.apk
+
+# Java class files
+*.class
+
+# generated files
+bin/
+tmp/
+gen/
+obj/
+libs/
+.settings/
+
+# Eclipse project files
+.project
