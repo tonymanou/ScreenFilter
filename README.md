@@ -29,6 +29,19 @@ Installation
 1. Enable Screen Filter in Xposed Installer's *Modules* tab
 1. Reboot your device
 
+Translations
+------------
+
+Current:
+
+1. French (fr)
+
+You are welcome if you want to add a new translation or update an existing one.
+
+* First, translate the strings in *[strings.xml](https://github.com/tonymanou/ScreenFilter/blob/translations/res/values/strings.xml)*
+* Do not translate lines with **translatable="false"**!
+* Then create a pull request with your changes
+
 Source code
 -----------
 
