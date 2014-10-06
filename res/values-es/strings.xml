@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="xposed_description">Añade un filtro a tu pantalla</string>
+    <string name="filter_off">Apagar</string>
+    <string name="transparency">Transparencia:</string>
+    <string name="no_service">¡Servicio del filtro no encontrado!!\n\nPor favor compruebe que Screen Filter esta habilitado en el instalador de Xposed y reinicie su dispositivo.</string>
+    <string name="fatal_error">¡Algo salió mal en SystemUI!\n\nPor favor cheque los registros de Xposed\'s y reporte el error en XDA.</string>
+    <string name="settings_filter">Ajustes del filtro</string>
+    <string name="settings_global">Ajustes globales</string>
+    <string name="settings_show_toolbox">Mostrar la herramienta de ajuste en la barra de estado extendida</string>
+    <string name="settings_show_toolbox_notification">Mostrar la herramienta de ajuste sobre las notificaciones</string>
+    <string name="settings_show_toolbox_quicksettings">Mostrar la herramienta de ajuste sobre los ajustes rápidos</string>
+    <string name="settings_make_toolbox_transparent">Haz la herramienta de ajuste transparente</string>
+
+</resources>
