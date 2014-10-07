@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="xposed_description">Ekranınıza bir filtre ekleyin</string>
+<string name="filter_off">KAPALI</string>
+<string name="transparency">Transparanlık:</string>
+<string name="no_service">Filtre servisi bulunamadı!\n\nEkran Filtresi\'nin Xposed Yükleyici\'de aktif olduğunu kontrol ediniz ve cihazınızı yeniden başlatınız.</string>
+<string name="fatal_error">SystemUI\'de bir şeyler ters gitti!\n\nLütfen Xposed\'ın günlüklerini kontrol edin ve sorunu XDA\'da raporlayın.</string>
+<string name="settings_filter">Filtre ayarları</string>
+<string name="settings_global">Genel ayarlar</string>
+<string name="settings_show_toolbox">Araç kutusunu genişletilmiş durum çubuğunda göster</string>
+<string name="settings_show_toolbox_notification">Araç kutusunu bildirimlerin üzerinde göster</string>
+<string name="settings_show_toolbox_quicksettings">Araç kutusunu hızlı ayarların üzerinde göster</string>
+<string name="settings_make_toolbox_transparent">Araç kutusunu transparan yap</string>
+
+</resources> 
