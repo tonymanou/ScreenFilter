@@ -34,13 +34,16 @@ Translations
 
 Current:
 
+1. Spanish (es)
 1. French (fr)
+1. Turkish (tr)
 
 You are welcome if you want to add a new translation or update an existing one.
 
-* First, translate the strings in *[strings.xml](https://github.com/tonymanou/ScreenFilter/blob/translations/res/values/strings.xml)*
+* First, get the english strings from *[strings.xml](https://github.com/tonymanou/ScreenFilter/blob/translations/res/values/strings.xml)* and translate them
 * Do not translate lines with **translatable="false"**!
-* Then create a pull request with your changes
+* Put the translated strings in ```res/values-xx/strings.xml``` (replace 'xx' with your locale code, create the folder if it does not exist)
+* Create a pull request with your changes
 
 Source code
 -----------
