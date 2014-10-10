@@ -38,6 +38,7 @@ Current:
 1. French (fr)
 1. Turkish (tr)
 1. Japanese (ja)
+1. Dutch (nl)
 
 You are welcome if you want to add a new translation or update an existing one.
 
