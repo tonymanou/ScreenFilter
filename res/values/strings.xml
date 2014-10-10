@@ -2,16 +2,16 @@
 <resources>
 
     <string name="app_name" translatable="false">Screen Filter</string>
-    <string name="xposed_description">Add a filter to your screen</string>
-    <string name="filter_off">OFF</string>
-    <string name="transparency">Transparency:</string>
-    <string name="no_service">Filter service not found!\n\nCheck that Screen Filter is enabled in Xposed Installer and reboot your device.</string>
-    <string name="fatal_error">Something went wrong in SystemUI!\n\nPlease check Xposed\'s logs and report the error on XDA.</string>
-    <string name="settings_filter">Filter settings</string>
-    <string name="settings_global">Global settings</string>
-    <string name="settings_show_toolbox">Show toolbox in extended status bar</string>
-    <string name="settings_show_toolbox_notification">Show toolbox above notifications</string>
-    <string name="settings_show_toolbox_quicksettings">Show toolbox above quick settings</string>
-    <string name="settings_make_toolbox_transparent">Make toolbox transparent</string>
+    <string name="xposed_description">Voeg een filter toe aan je scherm</string>
+    <string name="filter_off">UIT</string>
+    <string name="transparency">Transparantie:</string>
+    <string name="no_service">Filter service niet gevonden!\n\nBekijk of Scherm Filter is ingeschakeld in Xposed Installer en herstart je toestel.</string>
+    <string name="fatal_error">Er is iets fout gegaan in SystemUI!\n\nBekijk Xposed\'s logs en report de fout op XDA.</string>
+    <string name="settings_filter">Filter instellingen</string>
+    <string name="settings_global">Globale instellingen</string>
+    <string name="settings_show_toolbox">Toon toolbox in uitgebreidde status balk</string>
+    <string name="settings_show_toolbox_notification">Toon toolbox boven notificaties</string>
+    <string name="settings_show_toolbox_quicksettings">Toon toolbox boven snelle instellingenpaneel</string>
+    <string name="settings_make_toolbox_transparent">Maak toolbox transparant</string>
 
 </resources>
