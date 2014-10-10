@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="xposed_description">画面にフィルターを追加します</string>
+    <string name="filter_off">OFF</string>
+    <string name="transparency">透過度:</string>
+    <string name="no_service">フィルターサービスが見つかりません。\n\nXposed InstallerでScreen Filterが有効になっているか確認して端末を再起動してください。</string>
+    <string name="fatal_error">SystemUIで問題が発生しました。\n\nXposedのログを確認してXDAでエラーを報告してください。</string>
+    <string name="settings_filter">フィルター設定</string>
+    <string name="settings_global">グローバル設定</string>
+    <string name="settings_show_toolbox">通知領域にツールボックスを表示</string>
+    <string name="settings_show_toolbox_notification">通知の上にツールボックスを表示</string>
+    <string name="settings_show_toolbox_quicksettings">クイック設定の上にツールボックスを表示</string>
+    <string name="settings_make_toolbox_transparent">ツールボックスを透過</string>
+
+</resources>
