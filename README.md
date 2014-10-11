@@ -34,11 +34,12 @@ Translations
 
 Current:
 
-1. Spanish (es)
-1. French (fr)
-1. Turkish (tr)
-1. Japanese (ja)
 1. Dutch (nl)
+1. French (fr)
+1. Japanese (ja)
+1. Slovak (sk)
+1. Spanish (es)
+1. Turkish (tr)
 
 You are welcome if you want to add a new translation or update an existing one.
 

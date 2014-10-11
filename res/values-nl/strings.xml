@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name" translatable="false">Screen Filter</string>
     <string name="xposed_description">Voeg een filter toe aan je scherm</string>
     <string name="filter_off">UIT</string>
     <string name="transparency">Transparantie:</string>
