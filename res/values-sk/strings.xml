@@ -13,5 +13,6 @@
     <string name="settings_show_toolbox_notification">Zobraziť ovládací panel nad oznámeniami</string>
     <string name="settings_show_toolbox_quicksettings">Zobraziť ovládací rýchlymi nastaveniami</string>
     <string name="settings_make_toolbox_transparent">Priehľadný ovládací panel</string>
+    <string name="debug_log">Debug log (need reboot)</string>
 
 </resources>

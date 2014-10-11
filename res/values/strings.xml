@@ -14,5 +14,6 @@
     <string name="settings_show_toolbox_notification">Show toolbox above notifications</string>
     <string name="settings_show_toolbox_quicksettings">Show toolbox above quick settings</string>
     <string name="settings_make_toolbox_transparent">Make toolbox transparent</string>
+    <string name="debug_log">Debug log (need reboot)</string>
 
 </resources>

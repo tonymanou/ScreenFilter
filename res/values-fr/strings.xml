@@ -13,5 +13,6 @@
     <string name="settings_show_toolbox_notification">Afficher en haut du volet des notifications</string>
     <string name="settings_show_toolbox_quicksettings">Afficher en haut du volet des raccourcis</string>
     <string name="settings_make_toolbox_transparent">Rendre le fond transparent</string>
+    <string name="debug_log">Debug log (redémarrage requis)</string>
 
 </resources>

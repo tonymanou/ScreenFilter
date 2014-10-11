@@ -13,5 +13,6 @@
     <string name="settings_show_toolbox_notification">Mostrar la herramienta de ajuste sobre las notificaciones</string>
     <string name="settings_show_toolbox_quicksettings">Mostrar la herramienta de ajuste sobre los ajustes rápidos</string>
     <string name="settings_make_toolbox_transparent">Haz la herramienta de ajuste transparente</string>
+    <string name="debug_log">Debug log (need reboot)</string>
 
 </resources>
