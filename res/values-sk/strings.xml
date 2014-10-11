@@ -4,6 +4,7 @@
     <string name="xposed_description">Pridať filter na obrazovku</string>
     <string name="filter_off">VYPNUTÉ</string>
     <string name="transparency">Priehľadnosť:</string>
+    <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
     <string name="no_service">Nenašla sa služba filtra!\n\nSkontrolujte, či je Screen Filter povolený v Xposed Installeri a reštartujte zariadenie.</string>
     <string name="fatal_error">Niečo sa pokazilo v používateľskom rozhraní systému!\n\nProsím, skontrolujte Xposed záznamy a nahláste chybu na XDA fóre.</string>
     <string name="settings_filter">Nastavenia filtra</string>
