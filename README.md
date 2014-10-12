@@ -34,6 +34,7 @@ Translations
 
 Current:
 
+1. Chinese (zh)
 1. Dutch (nl)
 1. French (fr)
 1. Japanese (ja)
@@ -51,4 +52,4 @@ You are welcome if you want to add a new translation or update an existing one.
 Source code
 -----------
 
-The entire source tree of Screen Filter will soon be available, I just need to clean it out a bit and pick a suitable license before...
+The entire source tree of Screen Filter will soon be available. But before, I need to clean it out a bit and pick a suitable license...
