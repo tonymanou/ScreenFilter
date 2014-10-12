@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="xposed_description">Add a filter to your screen</string>
+    <string name="filter_off">OFF</string>
+    <string name="transparency">透明度:</string>
+    <string name="defaultTransparency">Default transparency:</string>
+    <string name="setDefaultTransparency">Change</string>
+    <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
+    <string name="no_service">Filter service not found!\n\nCheck that Screen Filter is enabled in Xposed Installer and reboot your device.</string>
+    <string name="fatal_error">Something went wrong in SystemUI!\n\nPlease check Xposed\'s logs and report the error on XDA.</string>
+    <string name="settings_filter">过滤器设置</string>
+    <string name="settings_global">全局设置</string>
+    <string name="settings_show_toolbox">在通知面板中显示工具箱</string>
+    <string name="settings_show_toolbox_notification">Show toolbox above notifications</string>
+    <string name="settings_show_toolbox_quicksettings">Show toolbox above quick settings</string>
+    <string name="settings_make_toolbox_transparent">使工具箱透明</string>
+    <string name="debug_log">Debug log (need reboot)</string>
+
+</resources>
