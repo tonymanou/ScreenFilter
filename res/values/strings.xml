@@ -5,6 +5,8 @@
     <string name="xposed_description">Add a filter to your screen</string>
     <string name="filter_off">OFF</string>
     <string name="transparency">Transparency:</string>
+    <string name="defaultTransparency">Default transparency:</string>
+    <string name="setDefaultTransparency">Change</string>
     <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
     <string name="no_service">Filter service not found!\n\nCheck that Screen Filter is enabled in Xposed Installer and reboot your device.</string>
     <string name="fatal_error">Something went wrong in SystemUI!\n\nPlease check Xposed\'s logs and report the error on XDA.</string>
