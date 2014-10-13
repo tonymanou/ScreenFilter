@@ -4,9 +4,9 @@
     <string name="xposed_description">Pridať filter na obrazovku</string>
     <string name="filter_off">VYPNUTÉ</string>
     <string name="transparency">Priehľadnosť:</string>
-    <string name="defaultTransparency">Default transparency:</string>
-    <string name="setDefaultTransparency">Change</string>
-    <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
+    <string name="defaultTransparency">Predvolená priehľadnosť:</string>
+    <string name="setDefaultTransparency">Zmeniť</string>
+    <string name="wrong_version">Screen Filter bol aktualizovaný,\n\nprosím, reštartnite vaše zariadenie pre aplikovanie zmien.</string>
     <string name="no_service">Nenašla sa služba filtra!\n\nSkontrolujte, či je Screen Filter povolený v Xposed Installeri a reštartujte zariadenie.</string>
     <string name="fatal_error">Niečo sa pokazilo v používateľskom rozhraní systému!\n\nProsím, skontrolujte Xposed záznamy a nahláste chybu na XDA fóre.</string>
     <string name="settings_filter">Nastavenia filtra</string>
@@ -15,6 +15,6 @@
     <string name="settings_show_toolbox_notification">Zobraziť ovládací panel nad oznámeniami</string>
     <string name="settings_show_toolbox_quicksettings">Zobraziť ovládací rýchlymi nastaveniami</string>
     <string name="settings_make_toolbox_transparent">Priehľadný ovládací panel</string>
-    <string name="debug_log">Debug log (need reboot)</string>
+    <string name="debug_log">Záznam pre ladenie (vyžadovaný reštart zariadenia)</string>
 
 </resources>
