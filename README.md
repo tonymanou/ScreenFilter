@@ -34,7 +34,7 @@ Translations
 
 Current:
 
-1. Chinese (zh)
+1. Chinese Simplified (zh) & Traditional (zh-rTW)
 1. Dutch (nl)
 1. French (fr)
 1. Japanese (ja)

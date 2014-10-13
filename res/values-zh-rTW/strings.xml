@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name" translatable="false">Screen Filter</string>
     <string name="xposed_description">在您的螢幕上增加一層濾鏡</string>
     <string name="filter_off">已關閉</string>
     <string name="transparency">透明度：</string>
