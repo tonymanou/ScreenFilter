@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="xposed_description">Add a filter to your screen</string>
+    <string name="xposed_description">在您的屏幕上添加一层过滤以降低屏幕亮度</string>
     <string name="filter_off">关闭</string>
     <string name="transparency">透明度:</string>
-    <string name="defaultTransparency">Default transparency:</string>
-    <string name="setDefaultTransparency">Change</string>
+    <string name="defaultTransparency">默认透明度:</string>
+    <string name="setDefaultTransparency">应用</string>
     <string name="wrong_version">屏幕过滤器已更新，请重启以应用更改。</string>
     <string name="no_service">未找到屏幕过滤服务！请确认您是否在Xposed中激活该项并请重启手机。</string>
     <string name="fatal_error">系统用户界面出错！请检查Xposed安装器日志并请在XDA论坛将该错误报告给我。</string>
