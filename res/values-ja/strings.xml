@@ -5,6 +5,8 @@
     <string name="filter_off">OFF</string>
     <string name="transparency">透過度:</string>
     <string name="defaultTransparency">Default transparency:</string>
+    <string name="min_transparency">Minimum:</string>
+    <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">Change</string>
     <string name="wrong_version">Screen Filterが更新されました。\n\n変更を適用するために端末を再起動してください。</string>
     <string name="no_service">フィルターサービスが見つかりません。\n\nXposed InstallerでScreen Filterが有効になっているか確認して端末を再起動してください。</string>

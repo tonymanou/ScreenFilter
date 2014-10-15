@@ -5,6 +5,8 @@
     <string name="filter_off">UIT</string>
     <string name="transparency">Transparantie:</string>
     <string name="defaultTransparency">Default transparency:</string>
+    <string name="min_transparency">Minimum:</string>
+    <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">Change</string>
     <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
     <string name="no_service">Filter service niet gevonden!\n\nBekijk of Scherm Filter is ingeschakeld in Xposed Installer en herstart je toestel.</string>

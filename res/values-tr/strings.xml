@@ -5,6 +5,8 @@
     <string name="filter_off">KAPALI</string>
     <string name="transparency">Transparanlık:</string>
     <string name="defaultTransparency">Default transparency:</string>
+    <string name="min_transparency">Minimum:</string>
+    <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">Change</string>
     <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
     <string name="no_service">Filtre servisi bulunamadı!\n\nEkran Filtresi\'nin Xposed Yükleyici\'de aktif olduğunu kontrol ediniz ve cihazınızı yeniden başlatınız.</string>

@@ -5,6 +5,8 @@
     <string name="filter_off">Apagar</string>
     <string name="transparency">Transparencia:</string>
     <string name="defaultTransparency">Transparencia predeterminada:</string>
+    <string name="min_transparency">Minimum:</string>
+    <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">Cambiar</string>
     <string name="wrong_version">Screen Filter se ha actualizado,\n\nPor favor reinicie el dispositivo para aplicar los cambios.</string>
     <string name="no_service">¡Servicio del filtro no encontrado!!\n\nPor favor compruebe que Screen Filter esta habilitado en el instalador de Xposed y reinicie su dispositivo.</string>
