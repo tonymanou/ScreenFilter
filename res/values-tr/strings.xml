@@ -5,9 +5,11 @@
     <string name="filter_off">KAPALI</string>
     <string name="transparency">Transparanlık:</string>
     <string name="defaultTransparency">Default transparency:</string>
+    <string name="transparency_range">Transparency range</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">Change</string>
+    <string name="warn_min_transparency">I agree with the fact that using a minimum transparency below 40 can make my screen entirely black and unreadable</string>
     <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
     <string name="no_service">Filtre servisi bulunamadı!\n\nEkran Filtresi\'nin Xposed Yükleyici\'de aktif olduğunu kontrol ediniz ve cihazınızı yeniden başlatınız.</string>
     <string name="fatal_error">SystemUI\'de bir şeyler ters gitti!\n\nLütfen Xposed\'ın günlüklerini kontrol edin ve sorunu XDA\'da raporlayın.</string>
@@ -18,5 +20,6 @@
     <string name="settings_show_toolbox_quicksettings">Araç kutusunu hızlı ayarların üzerinde göster</string>
     <string name="settings_make_toolbox_transparent">Araç kutusunu transparan yap</string>
     <string name="debug_log">Debug log (need reboot)</string>
+    <string name="please_reboot">Reboot your device to apply the changes</string>
 
 </resources>

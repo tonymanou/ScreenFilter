@@ -4,10 +4,12 @@
     <string name="xposed_description">Applique un filter à votre écran</string>
     <string name="filter_off">OFF</string>
     <string name="transparency">Transparence :</string>
-    <string name="defaultTransparency">Transparence par défaut:</string>
+    <string name="defaultTransparency">Transparence par défaut :</string>
+    <string name="transparency_range">Intervalle de transparence</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">Changer</string>
+    <string name="warn_min_transparency">J\'accepte le fait qu\'utiliser une transparence minimale inférieure à 40 peut rendre mon écran entièrement noir et illisible</string>
     <string name="wrong_version">Screen Filter a été mis à jour,\n\nveuillez redémarrer votre appareil pour appliquer les changements.</string>
     <string name="no_service">Le service du filtre n\'a pas été trouvé !\n\nVérifiez que Screen Filter est bien activé dans Xposed Installer et redémarrez votre appareil.</string>
     <string name="fatal_error">Un problème est survenu dans SystemUI !\n\nVeuillez vérifier les logs d\'Xposed et reporter l\'erreur sur XDA.</string>
@@ -18,5 +20,6 @@
     <string name="settings_show_toolbox_quicksettings">Afficher en haut du volet des raccourcis</string>
     <string name="settings_make_toolbox_transparent">Rendre le fond transparent</string>
     <string name="debug_log">Debug log (redémarrage requis)</string>
+    <string name="please_reboot">Redémarrez votre appareil pour appliquer les changements</string>
 
 </resources>

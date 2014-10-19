@@ -6,9 +6,11 @@
     <string name="filter_off">OFF</string>
     <string name="transparency">Transparency:</string>
     <string name="defaultTransparency">Default transparency:</string>
+    <string name="transparency_range">Transparency range</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">Change</string>
+    <string name="warn_min_transparency">I agree with the fact that using a minimum transparency below 40 can make my screen entirely black and unreadable</string>
     <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
     <string name="no_service">Filter service not found!\n\nCheck that Screen Filter is enabled in Xposed Installer and reboot your device.</string>
     <string name="fatal_error">Something went wrong in SystemUI!\n\nPlease check Xposed\'s logs and report the error on XDA.</string>
@@ -19,5 +21,6 @@
     <string name="settings_show_toolbox_quicksettings">Show toolbox above quick settings</string>
     <string name="settings_make_toolbox_transparent">Make toolbox transparent</string>
     <string name="debug_log">Debug log (need reboot)</string>
+    <string name="please_reboot">Reboot your device to apply the changes</string>
 
 </resources>
