@@ -5,11 +5,11 @@
     <string name="filter_off">Apagar</string>
     <string name="transparency">Transparencia:</string>
     <string name="defaultTransparency">Transparencia predeterminada:</string>
-    <string name="transparency_range">Transparency range</string>
-    <string name="min_transparency">Minimum:</string>
-    <string name="max_transparency">Maximum:</string>
+    <string name="transparency_range">Rango de transparencia</string>
+    <string name="min_transparency">Mínimo:</string>
+    <string name="max_transparency">Máximo:</string>
     <string name="setDefaultTransparency">Cambiar</string>
-    <string name="warn_min_transparency">I agree with the fact that using a minimum transparency below 40 can make my screen entirely black and unreadable</string>
+    <string name="warn_min_transparency">Estoy de acuerdo con el hecho de que el uso de una transparencia por debajo de 40 puede hacer la pantalla totalmente negra e ilegible</string>
     <string name="wrong_version">Screen Filter se ha actualizado,\n\nPor favor reinicie el dispositivo para aplicar los cambios.</string>
     <string name="no_service">¡Servicio del filtro no encontrado!!\n\nPor favor compruebe que Screen Filter esta habilitado en el instalador de Xposed y reinicie su dispositivo.</string>
     <string name="fatal_error">¡Algo salió mal en SystemUI!\n\nPor favor cheque los registros de Xposed\'s y reporte el error en XDA.</string>
@@ -20,6 +20,6 @@
     <string name="settings_show_toolbox_quicksettings">Mostrar la herramienta de ajuste sobre los ajustes rápidos</string>
     <string name="settings_make_toolbox_transparent">Haz la herramienta de ajuste transparente</string>
     <string name="debug_log">Registro de depuración (Requiere reiniciar)</string>
-    <string name="please_reboot">Reboot your device to apply the changes</string>
+    <string name="please_reboot">Reinicie el dispositivo para aplicar los cambios</string>
 
 </resources>
