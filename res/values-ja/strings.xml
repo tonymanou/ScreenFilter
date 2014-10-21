@@ -5,12 +5,12 @@
     <string name="filter_off">OFF</string>
     <string name="transparency">透過度:</string>
     <string name="defaultTransparency">デフォルトの透過度:</string>
-    <string name="transparency_range">Transparency range</string>
+    <string name="transparency_range">透過範囲</string>
     <string name="min_transparency">最小:</string>
     <string name="max_transparency">最大:</string>
     <string name="setDefaultTransparency">変更</string>
-    <string name="warn_min_transparency">I agree with the fact that using a minimum transparency below 40 can make my screen entirely black and unreadable</string>
-    <string name="wrong_version">Screen Filterが更新されました。\n\n変更を適用するために端末を再起動してください。</string>
+    <string name="warn_min_transparency">40以下の低い透過度を使用すると画面が真っ暗になり見えなくなる可能性があるということを承知します</string>
+    <string name="wrong_version">Screen Filterが更新されました。\n\n変更を適用するには端末を再起動してください。</string>
     <string name="no_service">フィルターサービスが見つかりません。\n\nXposed InstallerでScreen Filterが有効になっているか確認して端末を再起動してください。</string>
     <string name="fatal_error">システムUIで問題が発生しました。\n\nXposedのログを確認してXDAでエラーを報告してください。</string>
     <string name="settings_filter">フィルター設定</string>
@@ -20,6 +20,6 @@
     <string name="settings_show_toolbox_quicksettings">クイック設定の上にツールボックスを表示</string>
     <string name="settings_make_toolbox_transparent">ツールボックスを透過</string>
     <string name="debug_log">デバッグログ（要再起動）</string>
-    <string name="please_reboot">Reboot your device to apply the changes</string>
+    <string name="please_reboot">変更を適用するには端末を再起動してください</string>
 
 </resources>
