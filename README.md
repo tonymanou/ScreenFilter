@@ -45,7 +45,6 @@ Current:
 You are welcome if you want to add a new translation or update an existing one.
 
 * First, get the english strings from *[strings.xml](https://github.com/tonymanou/ScreenFilter/blob/translations/res/values/strings.xml)* and translate them
-* Do not translate lines with **translatable="false"**!
 * Put the translated strings in ```res/values-xx/strings.xml``` (replace 'xx' with your locale code, create the folder if it does not exist)
 * Create a pull request with your changes
 
