@@ -2,6 +2,8 @@
 <resources>
 
     <string name="xposed_description">Applique un filter à votre écran</string>
+    <string name="about_author"><![CDATA[par <b>tonymanou</b> (<b>tony78960</b> sur XDA)]]></string>
+    <string name="about_libraries">Librairies utilisées :</string>
     <string name="filter_off">OFF</string>
     <string name="transparency">Transparence :</string>
     <string name="defaultTransparency">Transparence par défaut :</string>
@@ -13,6 +15,8 @@
     <string name="wrong_version">Screen Filter a été mis à jour,\n\nveuillez redémarrer votre appareil pour appliquer les changements.</string>
     <string name="no_service">Le service du filtre n\'a pas été trouvé !\n\nVérifiez que Screen Filter est bien activé dans Xposed Installer et redémarrez votre appareil.</string>
     <string name="fatal_error">Un problème est survenu dans SystemUI !\n\nVeuillez vérifier les logs d\'Xposed et reporter l\'erreur sur XDA.</string>
+    <string name="menu_about">À propos</string>
+    <string name="menu_settings">Paramètres</string>
     <string name="settings_filter">Paramètres du filtre</string>
     <string name="settings_global">Paramètres globaux</string>
     <string name="settings_show_toolbox">Afficher la boite à outils dans la barre de status étendue</string>

@@ -2,6 +2,8 @@
 <resources>
 
     <string name="xposed_description">Ekranınıza bir filtre ekleyin</string>
+    <string name="about_author"><![CDATA[by <b>tonymanou</b> (<b>tony78960</b> on XDA)]]></string>
+    <string name="about_libraries">Used libraries:</string>
     <string name="filter_off">KAPALI</string>
     <string name="transparency">Transparanlık:</string>
     <string name="defaultTransparency">Default transparency:</string>
@@ -13,6 +15,8 @@
     <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
     <string name="no_service">Filtre servisi bulunamadı!\n\nEkran Filtresi\'nin Xposed Yükleyici\'de aktif olduğunu kontrol ediniz ve cihazınızı yeniden başlatınız.</string>
     <string name="fatal_error">SystemUI\'de bir şeyler ters gitti!\n\nLütfen Xposed\'ın günlüklerini kontrol edin ve sorunu XDA\'da raporlayın.</string>
+    <string name="menu_about">About</string>
+    <string name="menu_settings">Settings</string>
     <string name="settings_filter">Filtre ayarları</string>
     <string name="settings_global">Genel ayarlar</string>
     <string name="settings_show_toolbox">Araç kutusunu genişletilmiş durum çubuğunda göster</string>
