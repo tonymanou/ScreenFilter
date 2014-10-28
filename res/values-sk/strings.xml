@@ -11,6 +11,9 @@
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">Zmeniť</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="toggle">Toggle</string>
     <string name="warn_min_transparency">Súhlasím s tým, že pri použití minimálnej priehľadnosti pod hodnotou 40 sa môže displej úplne stmaviť a stať sa nečitateľným</string>
     <string name="wrong_version">Screen Filter bol aktualizovaný,\n\nprosím, reštartnite vaše zariadenie pre aplikovanie zmien.</string>
     <string name="no_service">Nenašla sa služba filtra!\n\nSkontrolujte, či je Screen Filter povolený v Xposed Installeri a reštartujte zariadenie.</string>

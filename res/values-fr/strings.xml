@@ -11,6 +11,9 @@
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">Changer</string>
+    <string name="enable">Activer</string>
+    <string name="disable">Désactiver</string>
+    <string name="toggle">Basculer</string>
     <string name="warn_min_transparency">J\'accepte le fait qu\'utiliser une transparence minimale inférieure à 40 peut rendre mon écran entièrement noir et illisible</string>
     <string name="wrong_version">Screen Filter a été mis à jour,\n\nveuillez redémarrer votre appareil pour appliquer les changements.</string>
     <string name="no_service">Le service du filtre n\'a pas été trouvé !\n\nVérifiez que Screen Filter est bien activé dans Xposed Installer et redémarrez votre appareil.</string>

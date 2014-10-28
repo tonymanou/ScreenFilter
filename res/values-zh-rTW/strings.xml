@@ -11,6 +11,9 @@
     <string name="min_transparency">最小值：</string>
     <string name="max_transparency">最大值：</string>
     <string name="setDefaultTransparency">修改</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="toggle">Toggle</string>
     <string name="warn_min_transparency">我同意並了解，當使用最小值低於40的透明度時，可能會造成我的螢幕變成全黑並且無法閱讀。</string>
     <string name="wrong_version">Screen Filter 已經更新，\n\n請重新啟動您的裝置以使變更生效。</string>
     <string name="no_service">未發現濾鏡服務\n\n請確認 Screen Filter 已經在 Xposed 安裝器裡啟用並且重新啟動您的手機。</string>

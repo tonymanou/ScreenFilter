@@ -11,6 +11,9 @@
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">Aanpassen</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="toggle">Toggle</string>
     <string name="warn_min_transparency">Ik ga akkoord met het feit dat het gebruiken van een minimum transparantie lager dan 40, mijn scherm volledig zwart en onleesbaar kan worden.</string>
     <string name="wrong_version">Screen Filter is geupdate,\n\nherstart je apparaat om de veranderingen toe te passen.</string>
     <string name="no_service">Filter service niet gevonden!\n\nBekijk of Scherm Filter is ingeschakeld in Xposed Installer en herstart je toestel.</string>

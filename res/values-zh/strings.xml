@@ -11,6 +11,9 @@
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
     <string name="setDefaultTransparency">应用</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="toggle">Toggle</string>
     <string name="warn_min_transparency">I agree with the fact that using a minimum transparency below 40 can make my screen entirely black and unreadable</string>
     <string name="wrong_version">屏幕过滤器已更新，请重启以应用更改。</string>
     <string name="no_service">未找到屏幕过滤服务！请确认您是否在Xposed中激活该项并请重启手机。</string>
