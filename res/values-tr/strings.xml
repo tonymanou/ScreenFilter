@@ -26,6 +26,7 @@
     <string name="settings_show_toolbox_notification">Araç kutusunu bildirimlerin üzerinde göster</string>
     <string name="settings_show_toolbox_quicksettings">Araç kutusunu hızlı ayarların üzerinde göster</string>
     <string name="settings_make_toolbox_transparent">Araç kutusunu transparan yap</string>
+    <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">Debug log (need reboot)</string>
     <string name="please_reboot">Reboot your device to apply the changes</string>
 

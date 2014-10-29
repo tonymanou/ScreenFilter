@@ -26,6 +26,7 @@
     <string name="settings_show_toolbox_notification">通知の上にツールボックスを表示</string>
     <string name="settings_show_toolbox_quicksettings">クイック設定の上にツールボックスを表示</string>
     <string name="settings_make_toolbox_transparent">ツールボックスを透過</string>
+    <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">デバッグログ（要再起動）</string>
     <string name="please_reboot">変更を適用するには端末を再起動してください</string>
 

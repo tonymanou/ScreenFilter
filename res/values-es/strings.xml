@@ -26,6 +26,7 @@
     <string name="settings_show_toolbox_notification">Mostrar la herramienta de ajuste sobre las notificaciones</string>
     <string name="settings_show_toolbox_quicksettings">Mostrar la herramienta de ajuste sobre los ajustes rápidos</string>
     <string name="settings_make_toolbox_transparent">Haz la herramienta de ajuste transparente</string>
+    <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">Registro de depuración (Requiere reiniciar)</string>
     <string name="please_reboot">Reinicie el dispositivo para aplicar los cambios</string>
 

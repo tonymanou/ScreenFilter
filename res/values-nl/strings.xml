@@ -26,6 +26,7 @@
     <string name="settings_show_toolbox_notification">Toon toolbox boven notificaties</string>
     <string name="settings_show_toolbox_quicksettings">Toon toolbox boven snelle instellingenpaneel</string>
     <string name="settings_make_toolbox_transparent">Maak toolbox transparant</string>
+    <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">Debug log (herstart vereist)</string>
     <string name="please_reboot">Herstart je apparaat om de veranderingen toe te passen</string>
 </resources>
