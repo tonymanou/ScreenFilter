@@ -22,11 +22,14 @@
     <string name="menu_settings">Instellingen</string>
     <string name="settings_filter">Filter instellingen</string>
     <string name="settings_global">Globale instellingen</string>
+    <string name="settings_debug">Debug</string>
     <string name="settings_show_toolbox">Toon toolbox in uitgebreidde status balk</string>
     <string name="settings_show_toolbox_notification">Toon toolbox boven notificaties</string>
     <string name="settings_show_toolbox_quicksettings">Toon toolbox boven snelle instellingenpaneel</string>
     <string name="settings_make_toolbox_transparent">Maak toolbox transparant</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">Debug log (herstart vereist)</string>
+    <string name="debug_dump">Debug info dumped to logcat</string>
+    <string name="dump_display_list">Dump display list</string>
     <string name="please_reboot">Herstart je apparaat om de veranderingen toe te passen</string>
 </resources>

@@ -22,12 +22,15 @@
     <string name="menu_settings">设置</string>
     <string name="settings_filter">过滤器设置</string>
     <string name="settings_global">全局设置</string>
+    <string name="settings_debug">Debug</string>
     <string name="settings_show_toolbox">在通知面板中显示工具箱</string>
     <string name="settings_show_toolbox_notification">在通知上方显示工具箱</string>
     <string name="settings_show_toolbox_quicksettings">在快速设置上方显示工具箱</string>
     <string name="settings_make_toolbox_transparent">使工具箱透明</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">调试日志（需重启）</string>
+    <string name="debug_dump">Debug info dumped to logcat</string>
+    <string name="dump_display_list">Dump display list</string>
     <string name="please_reboot">重启您的设备以应用更改</string>
 
 </resources>

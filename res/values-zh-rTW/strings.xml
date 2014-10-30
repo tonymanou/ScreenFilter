@@ -22,12 +22,15 @@
     <string name="menu_settings">設定</string>
     <string name="settings_filter">濾鏡設定</string>
     <string name="settings_global">全域設定</string>
+    <string name="settings_debug">Debug</string>
     <string name="settings_show_toolbox">在展開的通知面板顯示工具組</string>
     <string name="settings_show_toolbox_notification">在通知的上面顯示工具組</string>
     <string name="settings_show_toolbox_quicksettings">在快速設定的上面顯示工具組</string>
     <string name="settings_make_toolbox_transparent">使工具組背景呈現透明</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">偵錯錯誤日誌（需要重新啟動）</string>
+    <string name="debug_dump">Debug info dumped to logcat</string>
+    <string name="dump_display_list">Dump display list</string>
     <string name="please_reboot">重新啟動您的裝置以套用變更</string>
 
 </resources>

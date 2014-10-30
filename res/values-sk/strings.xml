@@ -22,12 +22,15 @@
     <string name="menu_settings">Nastavenia</string>
     <string name="settings_filter">Nastavenia filtra</string>
     <string name="settings_global">Globálne nastavenia</string>
+    <string name="settings_debug">Debug</string>
     <string name="settings_show_toolbox">Zobraziť ovládací panel v rozbalenom stavovom riadku</string>
     <string name="settings_show_toolbox_notification">Zobraziť ovládací panel nad oznámeniami</string>
     <string name="settings_show_toolbox_quicksettings">Zobraziť ovládací rýchlymi nastaveniami</string>
     <string name="settings_make_toolbox_transparent">Priehľadný ovládací panel</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">Záznam pre ladenie (vyžadovaný reštart zariadenia)</string>
+    <string name="debug_dump">Debug info dumped to logcat</string>
+    <string name="dump_display_list">Dump display list</string>
     <string name="please_reboot">Reštartnite vaše zariadenie pre aplikovanie zmien</string>
 
 </resources>

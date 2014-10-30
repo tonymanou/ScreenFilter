@@ -22,12 +22,15 @@
     <string name="menu_settings">Paramètres</string>
     <string name="settings_filter">Paramètres du filtre</string>
     <string name="settings_global">Paramètres globaux</string>
+    <string name="settings_debug">Debug</string>
     <string name="settings_show_toolbox">Afficher la boite à outils dans la barre de status étendue</string>
     <string name="settings_show_toolbox_notification">Afficher en haut du volet des notifications</string>
     <string name="settings_show_toolbox_quicksettings">Afficher en haut du volet des raccourcis</string>
     <string name="settings_make_toolbox_transparent">Rendre le fond transparent</string>
     <string name="settings_disable_hw_button_light">Désactiver le rétroéclairage des boutons physiques quand le filtre est actif</string>
     <string name="debug_log">Debug log (redémarrage requis)</string>
+    <string name="debug_dump">Informations de débogage écrites dans logcat</string>
+    <string name="dump_display_list">Infos sur les affichages</string>
     <string name="please_reboot">Redémarrez votre appareil pour appliquer les changements</string>
 
 </resources>
