@@ -14,10 +14,10 @@
     <string name="enable">Povoliť</string>
     <string name="disable">Zakázať</string>
     <string name="toggle">Prepnúť</string>
-    <string name="color">Color:</string>
-    <string name="customize">Customize</string>
-    <string name="double_tap">Double tap</string>
-    <string name="long_press">Long press</string>
+    <string name="color">Farba:</string>
+    <string name="customize">Prispôsobiť</string>
+    <string name="double_tap">Dvojité kliknutie</string>
+    <string name="long_press">Dlhé stlačenie</string>
     <string name="warn_min_transparency">Súhlasím s tým, že pri použití minimálnej priehľadnosti pod hodnotou 40 sa môže displej úplne stmaviť a stať sa nečitateľným</string>
     <string name="wrong_version">Screen Filter bol aktualizovaný,\n\nprosím, reštartnite vaše zariadenie pre aplikovanie zmien.</string>
     <string name="no_service">Nenašla sa služba filtra!\n\nSkontrolujte, či je Screen Filter povolený v Xposed Installeri a reštartujte zariadenie.</string>
