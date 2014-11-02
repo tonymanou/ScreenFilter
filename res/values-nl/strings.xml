@@ -14,6 +14,10 @@
     <string name="enable">Inschakelen</string>
     <string name="disable">Uitschakelen</string>
     <string name="toggle">Toggle</string>
+    <string name="color">Color:</string>
+    <string name="customize">Customize</string>
+    <string name="double_tap">Double tap</string>
+    <string name="long_press">Long press</string>
     <string name="warn_min_transparency">Ik ga akkoord met het feit dat het gebruiken van een minimum transparantie lager dan 40, mijn scherm volledig zwart en onleesbaar kan worden.</string>
     <string name="wrong_version">Screen Filter is geupdate,\n\nherstart je apparaat om de veranderingen toe te passen.</string>
     <string name="no_service">Filter service niet gevonden!\n\nBekijk of Scherm Filter is ingeschakeld in Xposed Installer en herstart je toestel.</string>
