@@ -6,11 +6,11 @@
     <string name="about_libraries">Librairies utilisées :</string>
     <string name="filter_off">OFF</string>
     <string name="transparency">Transparence :</string>
-    <string name="defaultTransparency">Transparence par défaut :</string>
+    <string name="default_transparency">Transparence par défaut :</string>
     <string name="transparency_range">Intervalle de transparence</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
-    <string name="setDefaultTransparency">Changer</string>
+    <string name="change">Changer</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
     <string name="toggle">Basculer</string>

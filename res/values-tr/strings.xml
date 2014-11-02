@@ -6,11 +6,11 @@
     <string name="about_libraries">Kullanılan kitaplıklar:</string>
     <string name="filter_off">KAPALI</string>
     <string name="transparency">Saydamlık:</string>
-    <string name="defaultTransparency">Varsayılan saydamlık:</string>
+    <string name="default_transparency">Varsayılan saydamlık:</string>
     <string name="transparency_range">Saydamlık aralığı</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maksimum:</string>
-    <string name="setDefaultTransparency">Değiştir</string>
+    <string name="change">Değiştir</string>
     <string name="enable">Etkinleştir</string>
     <string name="disable">Devre dışı</string>
     <string name="toggle">Değiştir</string>

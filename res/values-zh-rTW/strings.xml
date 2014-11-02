@@ -6,11 +6,11 @@
     <string name="about_libraries">使用的函式庫：</string>
     <string name="filter_off">已關閉</string>
     <string name="transparency">透明度：</string>
-    <string name="defaultTransparency">預設透明度：</string>
+    <string name="default_transparency">預設透明度：</string>
     <string name="transparency_range">Transparency range</string>
     <string name="min_transparency">最小值：</string>
     <string name="max_transparency">最大值：</string>
-    <string name="setDefaultTransparency">修改</string>
+    <string name="change">修改</string>
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
     <string name="toggle">Toggle</string>

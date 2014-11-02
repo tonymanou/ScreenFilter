@@ -6,11 +6,11 @@
     <string name="about_libraries">Gebruikte bibliotheken:</string>
     <string name="filter_off">UIT</string>
     <string name="transparency">Transparantie:</string>
-    <string name="defaultTransparency">Standaard transparantie:</string>
+    <string name="default_transparency">Standaard transparantie:</string>
     <string name="transparency_range">Transparantie gebied</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
-    <string name="setDefaultTransparency">Aanpassen</string>
+    <string name="change">Aanpassen</string>
     <string name="enable">Inschakelen</string>
     <string name="disable">Uitschakelen</string>
     <string name="toggle">Toggle</string>

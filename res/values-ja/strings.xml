@@ -6,11 +6,11 @@
     <string name="about_libraries">使用ライブラリ:</string>
     <string name="filter_off">OFF</string>
     <string name="transparency">透過度:</string>
-    <string name="defaultTransparency">デフォルトの透過度:</string>
+    <string name="default_transparency">デフォルトの透過度:</string>
     <string name="transparency_range">透過範囲</string>
     <string name="min_transparency">最小:</string>
     <string name="max_transparency">最大:</string>
-    <string name="setDefaultTransparency">変更</string>
+    <string name="change">変更</string>
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
     <string name="toggle">Toggle</string>

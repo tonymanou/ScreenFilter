@@ -6,11 +6,11 @@
     <string name="about_libraries">Used libraries:</string>
     <string name="filter_off">关闭</string>
     <string name="transparency">透明度:</string>
-    <string name="defaultTransparency">默认透明度：</string>
+    <string name="default_transparency">默认透明度：</string>
     <string name="transparency_range">透明度范围</string>
     <string name="min_transparency">最低透明度：</string>
     <string name="max_transparency">最高透明度：</string>
-    <string name="setDefaultTransparency">应用</string>
+    <string name="change">应用</string>
     <string name="enable">启用</string>
     <string name="disable">禁用</string>
     <string name="toggle">切换</string>
