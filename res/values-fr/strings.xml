@@ -18,6 +18,7 @@
     <string name="customize">Personnaliser</string>
     <string name="double_tap">Double pression</string>
     <string name="long_press">Longue pression</string>
+    <string name="realtime_preview">Visualiser les changements en temps réel</string>
     <string name="warn_min_transparency">J\'accepte le fait qu\'utiliser une transparence minimale inférieure à 40 peut rendre mon écran entièrement noir et illisible</string>
     <string name="wrong_version">Screen Filter a été mis à jour,\n\nveuillez redémarrer votre appareil pour appliquer les changements.</string>
     <string name="no_service">Le service du filtre n\'a pas été trouvé !\n\nVérifiez que Screen Filter est bien activé dans Xposed Installer et redémarrez votre appareil.</string>

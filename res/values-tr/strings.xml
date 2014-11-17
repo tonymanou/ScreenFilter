@@ -18,6 +18,7 @@
     <string name="customize">Customize</string>
     <string name="double_tap">Double tap</string>
     <string name="long_press">Long press</string>
+    <string name="realtime_preview">Preview the changes in real-time</string>
     <string name="warn_min_transparency">Minimum saydamlığı 40\'ın altında ayarlamanın ekranımı tamamen siyah ve okunmaz yapabileceğini kabul ediyorum.</string>
     <string name="wrong_version">Screen Filter güncellendi,\n\n değişiklikleri uygulamak için lütfen cihazınızı yeniden başlatın.</string>
     <string name="no_service">Filtre servisi bulunamadı!\n\nEkran Filtresi\'nin Xposed Yükleyici\'de aktif olduğunu kontrol ediniz ve cihazınızı yeniden başlatınız.</string>

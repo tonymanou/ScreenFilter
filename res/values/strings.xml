@@ -18,6 +18,7 @@
     <string name="customize">Customize</string>
     <string name="double_tap">Double tap</string>
     <string name="long_press">Long press</string>
+    <string name="realtime_preview">Preview the changes in real-time</string>
     <string name="warn_min_transparency">I agree with the fact that using a minimum transparency below 40 can make my screen entirely black and unreadable</string>
     <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
     <string name="no_service">Filter service not found!\n\nCheck that Screen Filter is enabled in Xposed Installer and reboot your device.</string>
