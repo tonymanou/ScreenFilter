@@ -18,7 +18,7 @@
     <string name="customize">自定义</string>
     <string name="double_tap">双击</string>
     <string name="long_press">长按</string>
-    <string name="realtime_preview">Preview the changes in real-time</string>
+    <string name="realtime_preview">实时预览</string>
     <string name="warn_min_transparency">我已知道当最低透明度低于40时屏幕可能完全变黑并仍决定设置。</string>
     <string name="wrong_version">屏幕过滤器已更新，请重启以应用更改。</string>
     <string name="no_service">未找到屏幕过滤服务！请确认您是否在Xposed中激活该项并请重启手机。</string>
