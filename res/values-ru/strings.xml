@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="xposed_description">Добавить фильтр для экрана</string>
+    <string name="about_author"><![CDATA[от <b>tonymanou</b> (<b>tony78960</b> с XDA)]]></string>
+    <string name="about_libraries">Используемые библиотеки:</string>
+    <string name="filter_off">ВЫКЛ</string>
+    <string name="transparency">Прозрачность:</string>
+    <string name="default_transparency">Прозрачность по умолчанию:</string>
+    <string name="transparency_range">Диапазон прозрачности</string>
+    <string name="min_transparency">Минимум:</string>
+    <string name="max_transparency">Максимум:</string>
+    <string name="change">Изменить</string>
+    <string name="enable">Включено</string>
+    <string name="disable">Отключено</string>
+    <string name="toggle">Переключатель</string>
+    <string name="color">Цвет:</string>
+    <string name="customize">Настройка</string>
+    <string name="double_tap">Двойное нажатие</string>
+    <string name="long_press">Удержание</string>
+    <string name="realtime_preview">Предварительный просмотр изменений в режиме реального времени</string>
+    <string name="warn_min_transparency">Я согласен с тем, что с использованием минимальной прозрачности ниже 40 может сделать мой экран полностью черный и нечитаемым</string>
+    <string name="wrong_version">Screen Filter был обновлен.\n\nПожалуйста, перезагрузите устройство, чтобы изменения вступили в силу.</string>
+    <string name="no_service">Службы фильтра не найдена!\n\nУбедитесь, что Screen Filter включен в Xposed Installer и перезагрузить устройство.</string>
+    <string name="fatal_error">Что-то пошло не так в SystemUI!\n\nПожалуйста, проверьте логи Xposed\'s и сообщить об ошибке на XDA.</string>
+    <string name="menu_about">О модуле</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="settings_filter">Настройки фильтра</string>
+    <string name="settings_global">Глобальные настройки</string>
+    <string name="settings_debug">Отладка</string>
+    <string name="settings_show_toolbox">Показать выключатель в шторке</string>
+    <string name="settings_show_toolbox_notification">Показать выключатель выше уведомления</string>
+    <string name="settings_show_toolbox_quicksettings">Показать выключатель выше быстрых настроек</string>
+    <string name="settings_make_toolbox_transparent">Сделать прозрачным</string>
+    <string name="settings_disable_hw_button_light">Отключить аппаратную кнопку подсветки при работе фильтра</string>
+    <string name="debug_log">Лог (нужна перезагрузка)</string>
+    <string name="debug_dump">Отладочный лог сбрасывается в LogCat</string>
+    <string name="dump_display_list">Дамп списка отображения</string>
+    <string name="please_reboot">Перезагрузите устройство, чтобы применить изменения</string>
+
+</resources>
