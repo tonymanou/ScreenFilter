@@ -21,7 +21,7 @@
     <string name="long_press">Dlhé stlačenie</string>
     <string name="realtime_preview">Náhľad zmien v reálnom čase</string>
     <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
-    <string name="warn_min_transparency">Súhlasím s tým, že pri použití minimálnej priehľadnosti pod hodnotou 40 sa môže displej úplne stmaviť a stať sa nečitateľným</string>
+    <string name="warn_min_transparency">Súhlasím s tým, že pri použití minimálnej priehľadnosti pod hodnotou 40 sa môže displej úplne stmaviť a stať sa nečitateľným.</string>
     <string name="wrong_version">Screen Filter bol aktualizovaný,\n\nprosím, reštartnite vaše zariadenie pre aplikovanie zmien.</string>
     <string name="no_service">Nenašla sa služba filtra!\n\nSkontrolujte, či je Screen Filter povolený v Xposed Installeri a reštartujte zariadenie.</string>
     <string name="fatal_error">Niečo sa pokazilo v používateľskom rozhraní systému!\n\nProsím, skontrolujte Xposed záznamy a nahláste chybu na XDA fóre.</string>

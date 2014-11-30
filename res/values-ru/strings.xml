@@ -21,7 +21,7 @@
     <string name="long_press">Удержание</string>
     <string name="realtime_preview">Предварительный просмотр изменений в режиме реального времени</string>
     <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
-    <string name="warn_min_transparency">Я согласен с тем, что с использованием минимальной прозрачности ниже 40 может сделать мой экран полностью черный и нечитаемым</string>
+    <string name="warn_min_transparency">Я согласен с тем, что с использованием минимальной прозрачности ниже 40 может сделать мой экран полностью черный и нечитаемым.</string>
     <string name="wrong_version">Screen Filter был обновлен.\n\nПожалуйста, перезагрузите устройство, чтобы изменения вступили в силу.</string>
     <string name="no_service">Службы фильтра не найдена!\n\nУбедитесь, что Screen Filter включен в Xposed Installer и перезагрузить устройство.</string>
     <string name="fatal_error">Что-то пошло не так в SystemUI!\n\nПожалуйста, проверьте логи Xposed\'s и сообщить об ошибке на XDA.</string>
