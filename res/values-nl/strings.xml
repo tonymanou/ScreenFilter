@@ -2,44 +2,70 @@
 <resources>
 
     <string name="xposed_description">Voeg een filter toe aan je scherm</string>
+
+    <!-- About -->
     <string name="about_author"><![CDATA[door <b>tonymanou</b> (<b>tony78960</b> on XDA)]]></string>
     <string name="about_libraries">Gebruikte bibliotheken:</string>
+
+    <!-- Toolbox -->
     <string name="filter_off">UIT</string>
+
+    <!-- Filter settings -->
+    <string name="dim_filter">Darkening filter</string>
+    <string name="color_filter">Color filter</string>
     <string name="transparency">Transparantie:</string>
-    <string name="transparency_range">Transparantie gebied</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
     <string name="set">Set</string>
     <string name="change">Aanpassen</string>
+    <string name="color">Color:</string>
+    <string name="default_value">Default:</string>
+
+    <!-- Locale/Tasker -->
     <string name="enable">Inschakelen</string>
     <string name="disable">Uitschakelen</string>
     <string name="toggle">Toggle</string>
-    <string name="color">Color:</string>
-    <string name="default_value">Default:</string>
+
+    <!-- Customization -->
     <string name="customize">Customize</string>
     <string name="double_tap">Double tap</string>
+    <string name="simple_press">Simple press</string>
     <string name="long_press">Long press</string>
+
+    <!-- Color picker dialog -->
     <string name="realtime_preview">Preview the changes in real-time</string>
-    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
+    <string name="realtime_preview_warn">The darkening filter is temporarily disabled during preview</string>
+
+    <!-- Transparency range dialog -->
+    <string name="transparency_range">Transparantie gebied</string>
     <string name="warn_min_transparency">Ik ga akkoord met het feit dat het gebruiken van een minimum transparantie lager dan 40, mijn scherm volledig zwart en onleesbaar kan worden.</string>
+
+    <!-- Error messages -->
+    <string name="not_supported">Not supported</string>
     <string name="wrong_version">Screen Filter is geupdate,\n\nherstart je apparaat om de veranderingen toe te passen.</string>
     <string name="no_service">Filter service niet gevonden!\n\nBekijk of Scherm Filter is ingeschakeld in Xposed Installer en herstart je toestel.</string>
     <string name="fatal_error">Er is iets fout gegaan in SystemUI!\n\nBekijk Xposed\'s logs en report de fout op XDA.</string>
+
+    <!-- Menu -->
     <string name="menu_about">Over</string>
     <string name="menu_filters">Filters</string>
     <string name="menu_settings">Instellingen</string>
-    <string name="settings_dim_filter">Darkening filter</string>
-    <string name="settings_color_filter">Color filter</string>
-    <string name="settings_global">Globale instellingen</string>
-    <string name="settings_debug">Debug</string>
+
+    <!-- Settings -->
+    <string name="settings_toolbox">Toolbox</string>
     <string name="settings_show_toolbox">Toon toolbox in uitgebreidde status balk</string>
     <string name="settings_show_toolbox_notification">Toon toolbox boven notificaties</string>
     <string name="settings_show_toolbox_quicksettings">Toon toolbox boven snelle instellingenpaneel</string>
     <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_toolbox_tint">Tint text and icon</string>
+    <string name="settings_other">Other</string>
     <string name="settings_disable_hw_button_light">Hardware knoppen licht uitschakelen wanneer filter actief is</string>
-    <string name="debug_log">Debug log (herstart vereist)</string>
+    <string name="settings_enable_boot">Enable at device boot</string>
+    <string name="settings_debug">Debug</string>
+    <string name="settings_debug_log">Debug log (herstart vereist)</string>
     <string name="please_reboot">Herstart je apparaat om de veranderingen toe te passen</string>
+
+    <!-- Help -->
     <string name="help_toggle_dim">Toggle the darkening filter</string>
     <string name="help_toggle_color">Toggle the color filter</string>
     <string name="help_default_dim">Enable the darkening filter at the default value</string>

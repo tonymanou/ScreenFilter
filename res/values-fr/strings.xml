@@ -2,44 +2,70 @@
 <resources>
 
     <string name="xposed_description">Applique un filter à votre écran</string>
+
+    <!-- About -->
     <string name="about_author"><![CDATA[par <b>tonymanou</b> (<b>tony78960</b> sur XDA)]]></string>
     <string name="about_libraries">Librairies utilisées :</string>
+
+    <!-- Toolbox -->
     <string name="filter_off">OFF</string>
+
+    <!-- Filter settings -->
+    <string name="dim_filter">Filtre obscurcissant</string>
+    <string name="color_filter">Filtre coloré</string>
     <string name="transparency">Transparence :</string>
-    <string name="transparency_range">Intervalle de transparence</string>
     <string name="min_transparency">Minimum :</string>
     <string name="max_transparency">Maximum :</string>
     <string name="set">Définir</string>
     <string name="change">Changer</string>
+    <string name="color">Couleur :</string>
+    <string name="default_value">Par défaut :</string>
+
+    <!-- Locale/Tasker -->
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
     <string name="toggle">Basculer</string>
-    <string name="color">Couleur :</string>
-    <string name="default_value">Par défaut :</string>
+
+    <!-- Customization -->
     <string name="customize">Personnaliser</string>
     <string name="double_tap">Double pression</string>
+    <string name="simple_press">Pression simple</string>
     <string name="long_press">Longue pression</string>
+
+    <!-- Color picker dialog -->
     <string name="realtime_preview">Visualiser les changements en temps réel</string>
-    <string name="realtime_preview_warn">(Le filtre obscurcissant est désactivé temporairement prendant la prévisualisation)</string>
+    <string name="realtime_preview_warn">Le filtre obscurcissant est désactivé temporairement prendant la prévisualisation</string>
+
+    <!-- Transparency range dialog -->
+    <string name="transparency_range">Intervalle de transparence</string>
     <string name="warn_min_transparency">J\'accepte le fait qu\'utiliser une transparence minimale inférieure à 40 peut rendre mon écran entièrement noir et illisible.</string>
+
+    <!-- Error messages -->
+    <string name="not_supported">Non supporté</string>
     <string name="wrong_version">Screen Filter a été mis à jour,\n\nveuillez redémarrer votre appareil pour appliquer les changements.</string>
     <string name="no_service">Le service du filtre n\'a pas été trouvé !\n\nVérifiez que Screen Filter est bien activé dans Xposed Installer et redémarrez votre appareil.</string>
     <string name="fatal_error">Un problème est survenu dans SystemUI !\n\nVeuillez vérifier les logs d\'Xposed et reporter l\'erreur sur XDA.</string>
+
+    <!-- Menu -->
     <string name="menu_about">À propos</string>
     <string name="menu_filters">Filtres</string>
     <string name="menu_settings">Paramètres</string>
-    <string name="settings_dim_filter">Filtre obscurcissant</string>
-    <string name="settings_color_filter">Filtre coloré</string>
-    <string name="settings_global">Paramètres globaux</string>
-    <string name="settings_debug">Debug</string>
+
+    <!-- Settings -->
+    <string name="settings_toolbox">Boite à outils</string>
     <string name="settings_show_toolbox">Afficher la boite à outils dans la barre de status étendue</string>
     <string name="settings_show_toolbox_notification">Afficher en haut du volet des notifications</string>
     <string name="settings_show_toolbox_quicksettings">Afficher en haut du volet des raccourcis</string>
     <string name="settings_toolbox_background">Utiliser un fond coloré</string>
     <string name="settings_toolbox_tint">Teinter le texte et l\'icône</string>
+    <string name="settings_other">Autre</string>
     <string name="settings_disable_hw_button_light">Désactiver le rétroéclairage des boutons physiques quand le filtre est actif</string>
-    <string name="debug_log">Debug log (redémarrage requis)</string>
+    <string name="settings_enable_boot">Activer au démarrage de l\'appareil</string>
+    <string name="settings_debug">Debug</string>
+    <string name="settings_debug_log">Debug log (redémarrage requis)</string>
     <string name="please_reboot">Redémarrez votre appareil pour appliquer les changements</string>
+
+    <!-- Help -->
     <string name="help_toggle_dim">Bascule le filtre obscurcissant</string>
     <string name="help_toggle_color">Bascule le filtre coloré</string>
     <string name="help_default_dim">Active le filtre obscurcissant à la valeur par défaut</string>

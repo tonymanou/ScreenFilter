@@ -2,44 +2,70 @@
 <resources>
 
     <string name="xposed_description">在您的屏幕上添加一层过滤以降低屏幕亮度</string>
+
+    <!-- About -->
     <string name="about_author"><![CDATA[by <b>tonymanou</b> (<b>tony78960</b> on XDA)]]></string>
     <string name="about_libraries">Used libraries:</string>
+
+    <!-- Toolbox -->
     <string name="filter_off">关闭</string>
+
+    <!-- Filter settings -->
+    <string name="dim_filter">Darkening filter</string>
+    <string name="color_filter">Color filter</string>
     <string name="transparency">透明度:</string>
-    <string name="transparency_range">透明度范围</string>
     <string name="min_transparency">最低透明度：</string>
     <string name="max_transparency">最高透明度：</string>
     <string name="set">Set</string>
     <string name="change">应用</string>
+    <string name="color">颜色：</string>
+    <string name="default_value">Default:</string>
+
+    <!-- Locale/Tasker -->
     <string name="enable">启用</string>
     <string name="disable">禁用</string>
     <string name="toggle">切换</string>
-    <string name="color">颜色：</string>
-    <string name="default_value">Default:</string>
+
+    <!-- Customization -->
     <string name="customize">自定义</string>
     <string name="double_tap">双击</string>
+    <string name="simple_press">Simple press</string>
     <string name="long_press">长按</string>
+
+    <!-- Color picker dialog -->
     <string name="realtime_preview">实时预览</string>
-    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
+    <string name="realtime_preview_warn">The darkening filter is temporarily disabled during preview</string>
+
+    <!-- Transparency range dialog -->
+    <string name="transparency_range">透明度范围</string>
     <string name="warn_min_transparency">我已知道当最低透明度低于40时屏幕可能完全变黑并仍决定设置。</string>
+
+    <!-- Error messages -->
+    <string name="not_supported">Not supported</string>
     <string name="wrong_version">屏幕过滤器已更新，请重启以应用更改。</string>
     <string name="no_service">未找到屏幕过滤服务！请确认您是否在Xposed中激活该项并请重启手机。</string>
     <string name="fatal_error">系统用户界面出错！请检查Xposed安装器日志并请在XDA论坛将该错误报告给我。</string>
+
+    <!-- Menu -->
     <string name="menu_about">关于</string>
     <string name="menu_filters">Filters</string>
     <string name="menu_settings">设置</string>
-    <string name="settings_dim_filter">Darkening filter</string>
-    <string name="settings_color_filter">Color filter</string>
-    <string name="settings_global">全局设置</string>
-    <string name="settings_debug">调试</string>
+
+    <!-- Settings -->
+    <string name="settings_toolbox">Toolbox</string>
     <string name="settings_show_toolbox">在通知面板中显示工具箱</string>
     <string name="settings_show_toolbox_notification">在通知上方显示工具箱</string>
     <string name="settings_show_toolbox_quicksettings">在快速设置上方显示工具箱</string>
     <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_toolbox_tint">Tint text and icon</string>
+    <string name="settings_other">Other</string>
     <string name="settings_disable_hw_button_light">当屏幕过滤启用时禁用按键背光</string>
-    <string name="debug_log">调试日志（需重启）</string>
+    <string name="settings_enable_boot">Enable at device boot</string>
+    <string name="settings_debug">调试</string>
+    <string name="settings_debug_log">调试日志（需重启）</string>
     <string name="please_reboot">重启您的设备以应用更改</string>
+
+    <!-- Help -->
     <string name="help_toggle_dim">Toggle the darkening filter</string>
     <string name="help_toggle_color">Toggle the color filter</string>
     <string name="help_default_dim">Enable the darkening filter at the default value</string>

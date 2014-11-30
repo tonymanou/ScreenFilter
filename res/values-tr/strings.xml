@@ -2,44 +2,70 @@
 <resources>
 
     <string name="xposed_description">Ekranınıza bir filtre ekleyin</string>
+
+    <!-- About -->
     <string name="about_author"><![CDATA[by <b>tonymanou</b> (<b>tony78960</b> XDA\'da)]]></string>
     <string name="about_libraries">Kullanılan kitaplıklar:</string>
+
+    <!-- Toolbox -->
     <string name="filter_off">KAPALI</string>
+
+    <!-- Filter settings -->
+    <string name="dim_filter">Darkening filter</string>
+    <string name="color_filter">Color filter</string>
     <string name="transparency">Saydamlık:</string>
-    <string name="transparency_range">Saydamlık aralığı</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maksimum:</string>
     <string name="set">Set</string>
     <string name="change">Değiştir</string>
+    <string name="color">Color:</string>
+    <string name="default_value">Default:</string>
+
+    <!-- Locale/Tasker -->
     <string name="enable">Etkinleştir</string>
     <string name="disable">Devre dışı</string>
     <string name="toggle">Değiştir</string>
-    <string name="color">Color:</string>
-    <string name="default_value">Default:</string>
+
+    <!-- Customization -->
     <string name="customize">Customize</string>
     <string name="double_tap">Double tap</string>
+    <string name="simple_press">Simple press</string>
     <string name="long_press">Long press</string>
+
+    <!-- Color picker dialog -->
     <string name="realtime_preview">Preview the changes in real-time</string>
-    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
+    <string name="realtime_preview_warn">The darkening filter is temporarily disabled during preview</string>
+
+    <!-- Transparency range dialog -->
+    <string name="transparency_range">Saydamlık aralığı</string>
     <string name="warn_min_transparency">Minimum saydamlığı 40\'ın altında ayarlamanın ekranımı tamamen siyah ve okunmaz yapabileceğini kabul ediyorum.</string>
+
+    <!-- Error messages -->
+    <string name="not_supported">Not supported</string>
     <string name="wrong_version">Screen Filter güncellendi,\n\n değişiklikleri uygulamak için lütfen cihazınızı yeniden başlatın.</string>
     <string name="no_service">Filtre servisi bulunamadı!\n\nEkran Filtresi\'nin Xposed Yükleyici\'de aktif olduğunu kontrol ediniz ve cihazınızı yeniden başlatınız.</string>
     <string name="fatal_error">SystemUI\'de bir şeyler ters gitti!\n\nLütfen Xposed\'ın günlüklerini kontrol edin ve sorunu XDA\'da raporlayın.</string>
+
+    <!-- Menu -->
     <string name="menu_about">Hakkında</string>
     <string name="menu_filters">Filters</string>
     <string name="menu_settings">Ayarlar</string>
-    <string name="settings_dim_filter">Darkening filter</string>
-    <string name="settings_color_filter">Color filter</string>
-    <string name="settings_global">Genel ayarlar</string>
-    <string name="settings_debug">Debug</string>
+
+    <!-- Settings -->
+    <string name="settings_toolbox">Toolbox</string>
     <string name="settings_show_toolbox">Araç kutusunu genişletilmiş durum çubuğunda göster</string>
     <string name="settings_show_toolbox_notification">Araç kutusunu bildirimlerin üzerinde göster</string>
     <string name="settings_show_toolbox_quicksettings">Araç kutusunu hızlı ayarların üzerinde göster</string>
     <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_toolbox_tint">Tint text and icon</string>
+    <string name="settings_other">Other</string>
     <string name="settings_disable_hw_button_light">Filtre aktifken donanımsal tuşların arka ışıklarını devredışı bırak</string>
-    <string name="debug_log">Hata ayıklama günlüğü (yeniden başlatma gerektirir)</string>
+    <string name="settings_enable_boot">Enable at device boot</string>
+    <string name="settings_debug">Debug</string>
+    <string name="settings_debug_log">Hata ayıklama günlüğü (yeniden başlatma gerektirir)</string>
     <string name="please_reboot">Değişiklikleri uygulamak için cihazınızı yeniden başlatın</string>
+
+    <!-- Help -->
     <string name="help_toggle_dim">Toggle the darkening filter</string>
     <string name="help_toggle_color">Toggle the color filter</string>
     <string name="help_default_dim">Enable the darkening filter at the default value</string>

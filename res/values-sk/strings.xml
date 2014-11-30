@@ -2,44 +2,70 @@
 <resources>
 
     <string name="xposed_description">Pridať filter na obrazovku</string>
+
+    <!-- About -->
     <string name="about_author"><![CDATA[od <b>tonymanou</b> (<b>tony78960</b> na XDA)]]></string>
     <string name="about_libraries">Použité knižnice:</string>
+
+    <!-- Toolbox -->
     <string name="filter_off">VYPNUTÉ</string>
+
+    <!-- Filter settings -->
+    <string name="dim_filter">Darkening filter</string>
+    <string name="color_filter">Color filter</string>
     <string name="transparency">Priehľadnosť:</string>
-    <string name="transparency_range">Rozsah priehľadnosti</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
     <string name="set">Set</string>
     <string name="change">Zmeniť</string>
+    <string name="color">Farba:</string>
+    <string name="default_value">Default:</string>
+
+    <!-- Locale/Tasker -->
     <string name="enable">Povoliť</string>
     <string name="disable">Zakázať</string>
     <string name="toggle">Prepnúť</string>
-    <string name="color">Farba:</string>
-    <string name="default_value">Default:</string>
+
+    <!-- Customization -->
     <string name="customize">Prispôsobiť</string>
     <string name="double_tap">Dvojité kliknutie</string>
+    <string name="simple_press">Simple press</string>
     <string name="long_press">Dlhé stlačenie</string>
+
+    <!-- Color picker dialog -->
     <string name="realtime_preview">Náhľad zmien v reálnom čase</string>
-    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
+    <string name="realtime_preview_warn">The darkening filter is temporarily disabled during preview</string>
+
+    <!-- Transparency range dialog -->
+    <string name="transparency_range">Rozsah priehľadnosti</string>
     <string name="warn_min_transparency">Súhlasím s tým, že pri použití minimálnej priehľadnosti pod hodnotou 40 sa môže displej úplne stmaviť a stať sa nečitateľným.</string>
+
+    <!-- Error messages -->
+    <string name="not_supported">Not supported</string>
     <string name="wrong_version">Screen Filter bol aktualizovaný,\n\nprosím, reštartnite vaše zariadenie pre aplikovanie zmien.</string>
     <string name="no_service">Nenašla sa služba filtra!\n\nSkontrolujte, či je Screen Filter povolený v Xposed Installeri a reštartujte zariadenie.</string>
     <string name="fatal_error">Niečo sa pokazilo v používateľskom rozhraní systému!\n\nProsím, skontrolujte Xposed záznamy a nahláste chybu na XDA fóre.</string>
+
+    <!-- Menu -->
     <string name="menu_about">O oplikácii</string>
     <string name="menu_filters">Filters</string>
     <string name="menu_settings">Nastavenia</string>
-    <string name="settings_dim_filter">Darkening filter</string>
-    <string name="settings_color_filter">Color filter</string>
-    <string name="settings_global">Globálne nastavenia</string>
-    <string name="settings_debug">Ladenie</string>
+
+    <!-- Settings -->
+    <string name="settings_toolbox">Toolbox</string>
     <string name="settings_show_toolbox">Zobraziť ovládací panel v rozbalenom stavovom riadku</string>
     <string name="settings_show_toolbox_notification">Zobraziť ovládací panel nad oznámeniami</string>
     <string name="settings_show_toolbox_quicksettings">Zobraziť ovládací rýchlymi nastaveniami</string>
     <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_toolbox_tint">Tint text and icon</string>
+    <string name="settings_other">Other</string>
     <string name="settings_disable_hw_button_light">Zakázať podsvietenie hardvérových tlačidiel pri aktívnom filtri</string>
-    <string name="debug_log">Záznam pre ladenie (vyžadovaný reštart zariadenia)</string>
+    <string name="settings_enable_boot">Enable at device boot</string>
+    <string name="settings_debug">Ladenie</string>
+    <string name="settings_debug_log">Záznam pre ladenie (vyžadovaný reštart zariadenia)</string>
     <string name="please_reboot">Reštartnite vaše zariadenie pre aplikovanie zmien</string>
+
+    <!-- Help -->
     <string name="help_toggle_dim">Toggle the darkening filter</string>
     <string name="help_toggle_color">Toggle the color filter</string>
     <string name="help_default_dim">Enable the darkening filter at the default value</string>

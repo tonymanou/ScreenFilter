@@ -2,44 +2,70 @@
 <resources>
 
     <string name="xposed_description">画面にフィルターを追加します</string>
+
+    <!-- About -->
     <string name="about_author"><![CDATA[by <b>tonymanou</b>（<b>tony78960</b> on XDA）]]></string>
     <string name="about_libraries">使用ライブラリ:</string>
+
+    <!-- Toolbox -->
     <string name="filter_off">OFF</string>
+
+    <!-- Filter settings -->
+    <string name="dim_filter">Darkening filter</string>
+    <string name="color_filter">Color filter</string>
     <string name="transparency">透過度:</string>
-    <string name="transparency_range">透過範囲</string>
     <string name="min_transparency">最小:</string>
     <string name="max_transparency">最大:</string>
     <string name="set">Set</string>
     <string name="change">変更</string>
+    <string name="color">Color:</string>
+    <string name="default_value">Default:</string>
+
+    <!-- Locale/Tasker -->
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
     <string name="toggle">Toggle</string>
-    <string name="color">Color:</string>
-    <string name="default_value">Default:</string>
+
+    <!-- Customization -->
     <string name="customize">Customize</string>
     <string name="double_tap">Double tap</string>
+    <string name="simple_press">Simple press</string>
     <string name="long_press">Long press</string>
+
+    <!-- Color picker dialog -->
     <string name="realtime_preview">Preview the changes in real-time</string>
-    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
+    <string name="realtime_preview_warn">The darkening filter is temporarily disabled during preview</string>
+
+    <!-- Transparency range dialog -->
+    <string name="transparency_range">透過範囲</string>
     <string name="warn_min_transparency">40以下の低い透過度を使用すると画面が真っ暗になり見えなくなる可能性があるということを承知します。</string>
+
+    <!-- Error messages -->
+    <string name="not_supported">Not supported</string>
     <string name="wrong_version">Screen Filterが更新されました。\n\n変更を適用するには端末を再起動してください。</string>
     <string name="no_service">フィルターサービスが見つかりません。\n\nXposed InstallerでScreen Filterが有効になっているか確認して端末を再起動してください。</string>
     <string name="fatal_error">システムUIで問題が発生しました。\n\nXposedのログを確認してXDAでエラーを報告してください。</string>
+
+    <!-- Menu -->
     <string name="menu_about">情報</string>
     <string name="menu_filters">Filters</string>
     <string name="menu_settings">設定</string>
-    <string name="settings_dim_filter">Darkening filter</string>
-    <string name="settings_color_filter">Color filter</string>
-    <string name="settings_global">グローバル設定</string>
-    <string name="settings_debug">Debug</string>
+
+    <!-- Settings -->
+    <string name="settings_toolbox">Toolbox</string>
     <string name="settings_show_toolbox">通知領域にツールボックスを表示</string>
     <string name="settings_show_toolbox_notification">通知の上にツールボックスを表示</string>
     <string name="settings_show_toolbox_quicksettings">クイック設定の上にツールボックスを表示</string>
     <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_toolbox_tint">Tint text and icon</string>
+    <string name="settings_other">Other</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
-    <string name="debug_log">デバッグログ（要再起動）</string>
+    <string name="settings_enable_boot">Enable at device boot</string>
+    <string name="settings_debug">Debug</string>
+    <string name="settings_debug_log">デバッグログ（要再起動）</string>
     <string name="please_reboot">変更を適用するには端末を再起動してください</string>
+
+    <!-- Help -->
     <string name="help_toggle_dim">Toggle the darkening filter</string>
     <string name="help_toggle_color">Toggle the color filter</string>
     <string name="help_default_dim">Enable the darkening filter at the default value</string>
