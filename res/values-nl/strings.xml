@@ -6,7 +6,6 @@
     <string name="about_libraries">Gebruikte bibliotheken:</string>
     <string name="filter_off">UIT</string>
     <string name="transparency">Transparantie:</string>
-    <string name="default_transparency">Standaard transparantie:</string>
     <string name="transparency_range">Transparantie gebied</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
@@ -15,6 +14,7 @@
     <string name="disable">Uitschakelen</string>
     <string name="toggle">Toggle</string>
     <string name="color">Color:</string>
+    <string name="default_value">Default:</string>
     <string name="customize">Customize</string>
     <string name="double_tap">Double tap</string>
     <string name="long_press">Long press</string>

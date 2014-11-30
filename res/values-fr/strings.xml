@@ -6,7 +6,6 @@
     <string name="about_libraries">Librairies utilisées :</string>
     <string name="filter_off">OFF</string>
     <string name="transparency">Transparence :</string>
-    <string name="default_transparency">Transparence par défaut :</string>
     <string name="transparency_range">Intervalle de transparence</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
@@ -15,6 +14,7 @@
     <string name="disable">Désactiver</string>
     <string name="toggle">Basculer</string>
     <string name="color">Couleur:</string>
+    <string name="default_value">Default:</string>
     <string name="customize">Personnaliser</string>
     <string name="double_tap">Double pression</string>
     <string name="long_press">Longue pression</string>

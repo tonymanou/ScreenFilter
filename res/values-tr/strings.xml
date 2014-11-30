@@ -6,7 +6,6 @@
     <string name="about_libraries">Kullanılan kitaplıklar:</string>
     <string name="filter_off">KAPALI</string>
     <string name="transparency">Saydamlık:</string>
-    <string name="default_transparency">Varsayılan saydamlık:</string>
     <string name="transparency_range">Saydamlık aralığı</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maksimum:</string>
@@ -15,6 +14,7 @@
     <string name="disable">Devre dışı</string>
     <string name="toggle">Değiştir</string>
     <string name="color">Color:</string>
+    <string name="default_value">Default:</string>
     <string name="customize">Customize</string>
     <string name="double_tap">Double tap</string>
     <string name="long_press">Long press</string>

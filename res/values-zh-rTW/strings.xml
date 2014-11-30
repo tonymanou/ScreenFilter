@@ -6,7 +6,6 @@
     <string name="about_libraries">使用的函式庫：</string>
     <string name="filter_off">已關閉</string>
     <string name="transparency">透明度：</string>
-    <string name="default_transparency">預設透明度：</string>
     <string name="transparency_range">Transparency range</string>
     <string name="min_transparency">最小值：</string>
     <string name="max_transparency">最大值：</string>
@@ -15,6 +14,7 @@
     <string name="disable">Disable</string>
     <string name="toggle">Toggle</string>
     <string name="color">Color:</string>
+    <string name="default_value">Default:</string>
     <string name="customize">Customize</string>
     <string name="double_tap">Double tap</string>
     <string name="long_press">Long press</string>

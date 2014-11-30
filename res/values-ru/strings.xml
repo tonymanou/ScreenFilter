@@ -6,7 +6,6 @@
     <string name="about_libraries">Используемые библиотеки:</string>
     <string name="filter_off">ВЫКЛ</string>
     <string name="transparency">Прозрачность:</string>
-    <string name="default_transparency">Прозрачность по умолчанию:</string>
     <string name="transparency_range">Диапазон прозрачности</string>
     <string name="min_transparency">Минимум:</string>
     <string name="max_transparency">Максимум:</string>
@@ -15,6 +14,7 @@
     <string name="disable">Отключено</string>
     <string name="toggle">Переключатель</string>
     <string name="color">Цвет:</string>
+    <string name="default_value">Default:</string>
     <string name="customize">Настройка</string>
     <string name="double_tap">Двойное нажатие</string>
     <string name="long_press">Удержание</string>

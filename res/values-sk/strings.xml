@@ -6,7 +6,6 @@
     <string name="about_libraries">Použité knižnice:</string>
     <string name="filter_off">VYPNUTÉ</string>
     <string name="transparency">Priehľadnosť:</string>
-    <string name="default_transparency">Predvolená priehľadnosť:</string>
     <string name="transparency_range">Rozsah priehľadnosti</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
@@ -15,6 +14,7 @@
     <string name="disable">Zakázať</string>
     <string name="toggle">Prepnúť</string>
     <string name="color">Farba:</string>
+    <string name="default_value">Default:</string>
     <string name="customize">Prispôsobiť</string>
     <string name="double_tap">Dvojité kliknutie</string>
     <string name="long_press">Dlhé stlačenie</string>
