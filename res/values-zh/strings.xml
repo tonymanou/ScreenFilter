@@ -24,8 +24,10 @@
     <string name="no_service">未找到屏幕过滤服务！请确认您是否在Xposed中激活该项并请重启手机。</string>
     <string name="fatal_error">系统用户界面出错！请检查Xposed安装器日志并请在XDA论坛将该错误报告给我。</string>
     <string name="menu_about">关于</string>
+    <string name="menu_filters">Filters</string>
     <string name="menu_settings">设置</string>
-    <string name="settings_filter">过滤器设置</string>
+    <string name="settings_dim_filter">Darkening filter</string>
+    <string name="settings_color_filter">Color filter</string>
     <string name="settings_global">全局设置</string>
     <string name="settings_debug">调试</string>
     <string name="settings_show_toolbox">在通知面板中显示工具箱</string>

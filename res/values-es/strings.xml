@@ -24,8 +24,10 @@
     <string name="no_service">¡Servicio del filtro no encontrado!!\n\nPor favor compruebe que Screen Filter esta habilitado en el instalador de Xposed y reinicie su dispositivo.</string>
     <string name="fatal_error">¡Algo salió mal en SystemUI!\n\nPor favor cheque los registros de Xposed\'s y reporte el error en XDA.</string>
     <string name="menu_about">Acerca de</string>
+    <string name="menu_filters">Filters</string>
     <string name="menu_settings">Ajustes</string>
-    <string name="settings_filter">Ajustes del filtro</string>
+    <string name="settings_dim_filter">Darkening filter</string>
+    <string name="settings_color_filter">Color filter</string>
     <string name="settings_global">Ajustes globales</string>
     <string name="settings_debug">Depurar</string>
     <string name="settings_show_toolbox">Mostrar la herramienta de ajuste en la barra de estado extendida</string>

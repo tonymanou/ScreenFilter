@@ -24,8 +24,10 @@
     <string name="no_service">Nenašla sa služba filtra!\n\nSkontrolujte, či je Screen Filter povolený v Xposed Installeri a reštartujte zariadenie.</string>
     <string name="fatal_error">Niečo sa pokazilo v používateľskom rozhraní systému!\n\nProsím, skontrolujte Xposed záznamy a nahláste chybu na XDA fóre.</string>
     <string name="menu_about">O oplikácii</string>
+    <string name="menu_filters">Filters</string>
     <string name="menu_settings">Nastavenia</string>
-    <string name="settings_filter">Nastavenia filtra</string>
+    <string name="settings_dim_filter">Darkening filter</string>
+    <string name="settings_color_filter">Color filter</string>
     <string name="settings_global">Globálne nastavenia</string>
     <string name="settings_debug">Ladenie</string>
     <string name="settings_show_toolbox">Zobraziť ovládací panel v rozbalenom stavovom riadku</string>

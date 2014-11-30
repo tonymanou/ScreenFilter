@@ -24,8 +24,10 @@
     <string name="no_service">Службы фильтра не найдена!\n\nУбедитесь, что Screen Filter включен в Xposed Installer и перезагрузить устройство.</string>
     <string name="fatal_error">Что-то пошло не так в SystemUI!\n\nПожалуйста, проверьте логи Xposed\'s и сообщить об ошибке на XDA.</string>
     <string name="menu_about">О модуле</string>
+    <string name="menu_filters">Filters</string>
     <string name="menu_settings">Настройки</string>
-    <string name="settings_filter">Настройки фильтра</string>
+    <string name="settings_dim_filter">Darkening filter</string>
+    <string name="settings_color_filter">Color filter</string>
     <string name="settings_global">Глобальные настройки</string>
     <string name="settings_debug">Отладка</string>
     <string name="settings_show_toolbox">Показать выключатель в шторке</string>

@@ -24,8 +24,10 @@
     <string name="no_service">Filtre servisi bulunamadı!\n\nEkran Filtresi\'nin Xposed Yükleyici\'de aktif olduğunu kontrol ediniz ve cihazınızı yeniden başlatınız.</string>
     <string name="fatal_error">SystemUI\'de bir şeyler ters gitti!\n\nLütfen Xposed\'ın günlüklerini kontrol edin ve sorunu XDA\'da raporlayın.</string>
     <string name="menu_about">Hakkında</string>
+    <string name="menu_filters">Filters</string>
     <string name="menu_settings">Ayarlar</string>
-    <string name="settings_filter">Filtre ayarları</string>
+    <string name="settings_dim_filter">Darkening filter</string>
+    <string name="settings_color_filter">Color filter</string>
     <string name="settings_global">Genel ayarlar</string>
     <string name="settings_debug">Debug</string>
     <string name="settings_show_toolbox">Araç kutusunu genişletilmiş durum çubuğunda göster</string>

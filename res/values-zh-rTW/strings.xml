@@ -24,8 +24,10 @@
     <string name="no_service">未發現濾鏡服務\n\n請確認 Screen Filter 已經在 Xposed 安裝器裡啟用並且重新啟動您的手機。</string>
     <string name="fatal_error">系統使用者介面(SystemUI)發生錯誤！\n\n請確認 Xposed 的錯誤日誌並且在 XDA 回報這個錯誤。</string>
     <string name="menu_about">關於</string>
+    <string name="menu_filters">Filters</string>
     <string name="menu_settings">設定</string>
-    <string name="settings_filter">濾鏡設定</string>
+    <string name="settings_dim_filter">Darkening filter</string>
+    <string name="settings_color_filter">Color filter</string>
     <string name="settings_global">全域設定</string>
     <string name="settings_debug">Debug</string>
     <string name="settings_show_toolbox">在展開的通知面板顯示工具組</string>

@@ -24,8 +24,10 @@
     <string name="no_service">フィルターサービスが見つかりません。\n\nXposed InstallerでScreen Filterが有効になっているか確認して端末を再起動してください。</string>
     <string name="fatal_error">システムUIで問題が発生しました。\n\nXposedのログを確認してXDAでエラーを報告してください。</string>
     <string name="menu_about">情報</string>
+    <string name="menu_filters">Filters</string>
     <string name="menu_settings">設定</string>
-    <string name="settings_filter">フィルター設定</string>
+    <string name="settings_dim_filter">Darkening filter</string>
+    <string name="settings_color_filter">Color filter</string>
     <string name="settings_global">グローバル設定</string>
     <string name="settings_debug">Debug</string>
     <string name="settings_show_toolbox">通知領域にツールボックスを表示</string>
