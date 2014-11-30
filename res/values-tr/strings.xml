@@ -9,6 +9,7 @@
     <string name="transparency_range">Saydamlık aralığı</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maksimum:</string>
+    <string name="set">Set</string>
     <string name="change">Değiştir</string>
     <string name="enable">Etkinleştir</string>
     <string name="disable">Devre dışı</string>
@@ -33,8 +34,8 @@
     <string name="settings_show_toolbox">Araç kutusunu genişletilmiş durum çubuğunda göster</string>
     <string name="settings_show_toolbox_notification">Araç kutusunu bildirimlerin üzerinde göster</string>
     <string name="settings_show_toolbox_quicksettings">Araç kutusunu hızlı ayarların üzerinde göster</string>
+    <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_disable_hw_button_light">Filtre aktifken donanımsal tuşların arka ışıklarını devredışı bırak</string>
-    <string name="settings_make_toolbox_transparent">Araç kutusunu saydam yap</string>
     <string name="debug_log">Hata ayıklama günlüğü (yeniden başlatma gerektirir)</string>
     <string name="debug_dump">Debug info dumped to logcat</string>
     <string name="dump_display_list">Dump display list</string>

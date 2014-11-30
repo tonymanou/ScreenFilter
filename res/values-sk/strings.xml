@@ -9,6 +9,7 @@
     <string name="transparency_range">Rozsah priehľadnosti</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
+    <string name="set">Set</string>
     <string name="change">Zmeniť</string>
     <string name="enable">Povoliť</string>
     <string name="disable">Zakázať</string>
@@ -33,7 +34,7 @@
     <string name="settings_show_toolbox">Zobraziť ovládací panel v rozbalenom stavovom riadku</string>
     <string name="settings_show_toolbox_notification">Zobraziť ovládací panel nad oznámeniami</string>
     <string name="settings_show_toolbox_quicksettings">Zobraziť ovládací rýchlymi nastaveniami</string>
-    <string name="settings_make_toolbox_transparent">Priehľadný ovládací panel</string>
+    <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_disable_hw_button_light">Zakázať podsvietenie hardvérových tlačidiel pri aktívnom filtri</string>
     <string name="debug_log">Záznam pre ladenie (vyžadovaný reštart zariadenia)</string>
     <string name="debug_dump">Informácie pre ladenie boli zapísané do logcatu</string>

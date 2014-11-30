@@ -9,6 +9,7 @@
     <string name="transparency_range">Transparency range</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
+    <string name="set">Set</string>
     <string name="change">Change</string>
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
@@ -33,7 +34,7 @@
     <string name="settings_show_toolbox">Show toolbox in extended status bar</string>
     <string name="settings_show_toolbox_notification">Show toolbox above notifications</string>
     <string name="settings_show_toolbox_quicksettings">Show toolbox above quick settings</string>
-    <string name="settings_make_toolbox_transparent">Make toolbox transparent</string>
+    <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">Debug log (need reboot)</string>
     <string name="debug_dump">Debug info dumped to logcat</string>

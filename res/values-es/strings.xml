@@ -9,6 +9,7 @@
     <string name="transparency_range">Rango de transparencia</string>
     <string name="min_transparency">Mínimo:</string>
     <string name="max_transparency">Máximo:</string>
+    <string name="set">Set</string>
     <string name="change">Cambiar</string>
     <string name="enable">Habilitar</string>
     <string name="disable">Inhabilitar</string>
@@ -33,7 +34,7 @@
     <string name="settings_show_toolbox">Mostrar la herramienta de ajuste en la barra de estado extendida</string>
     <string name="settings_show_toolbox_notification">Mostrar la herramienta de ajuste sobre las notificaciones</string>
     <string name="settings_show_toolbox_quicksettings">Mostrar la herramienta de ajuste sobre los ajustes rápidos</string>
-    <string name="settings_make_toolbox_transparent">Haz la herramienta de ajuste transparente</string>
+    <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_disable_hw_button_light">Inhabilitar la luz de fondo de los botones físicos cuando el filtro esté activo</string>
     <string name="debug_log">Registro de depuración (Requiere reiniciar)</string>
     <string name="debug_dump">Depurar datos a logcat</string>

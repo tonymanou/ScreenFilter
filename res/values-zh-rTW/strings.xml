@@ -9,6 +9,7 @@
     <string name="transparency_range">Transparency range</string>
     <string name="min_transparency">最小值：</string>
     <string name="max_transparency">最大值：</string>
+    <string name="set">Set</string>
     <string name="change">修改</string>
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
@@ -33,7 +34,7 @@
     <string name="settings_show_toolbox">在展開的通知面板顯示工具組</string>
     <string name="settings_show_toolbox_notification">在通知的上面顯示工具組</string>
     <string name="settings_show_toolbox_quicksettings">在快速設定的上面顯示工具組</string>
-    <string name="settings_make_toolbox_transparent">使工具組背景呈現透明</string>
+    <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">偵錯錯誤日誌（需要重新啟動）</string>
     <string name="debug_dump">Debug info dumped to logcat</string>

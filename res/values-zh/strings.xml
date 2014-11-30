@@ -9,6 +9,7 @@
     <string name="transparency_range">透明度范围</string>
     <string name="min_transparency">最低透明度：</string>
     <string name="max_transparency">最高透明度：</string>
+    <string name="set">Set</string>
     <string name="change">应用</string>
     <string name="enable">启用</string>
     <string name="disable">禁用</string>
@@ -33,7 +34,7 @@
     <string name="settings_show_toolbox">在通知面板中显示工具箱</string>
     <string name="settings_show_toolbox_notification">在通知上方显示工具箱</string>
     <string name="settings_show_toolbox_quicksettings">在快速设置上方显示工具箱</string>
-    <string name="settings_make_toolbox_transparent">使工具箱透明</string>
+    <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_disable_hw_button_light">当屏幕过滤启用时禁用按键背光</string>
     <string name="debug_log">调试日志（需重启）</string>
     <string name="debug_dump">Debug info dumped to logcat</string>

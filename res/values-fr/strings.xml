@@ -9,6 +9,7 @@
     <string name="transparency_range">Intervalle de transparence</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
+    <string name="set">Set</string>
     <string name="change">Changer</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
@@ -33,7 +34,7 @@
     <string name="settings_show_toolbox">Afficher la boite à outils dans la barre de status étendue</string>
     <string name="settings_show_toolbox_notification">Afficher en haut du volet des notifications</string>
     <string name="settings_show_toolbox_quicksettings">Afficher en haut du volet des raccourcis</string>
-    <string name="settings_make_toolbox_transparent">Rendre le fond transparent</string>
+    <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_disable_hw_button_light">Désactiver le rétroéclairage des boutons physiques quand le filtre est actif</string>
     <string name="debug_log">Debug log (redémarrage requis)</string>
     <string name="debug_dump">Informations de débogage écrites dans logcat</string>

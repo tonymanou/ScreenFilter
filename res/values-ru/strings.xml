@@ -9,6 +9,7 @@
     <string name="transparency_range">Диапазон прозрачности</string>
     <string name="min_transparency">Минимум:</string>
     <string name="max_transparency">Максимум:</string>
+    <string name="set">Set</string>
     <string name="change">Изменить</string>
     <string name="enable">Включено</string>
     <string name="disable">Отключено</string>
@@ -33,7 +34,7 @@
     <string name="settings_show_toolbox">Показать выключатель в шторке</string>
     <string name="settings_show_toolbox_notification">Показать выключатель выше уведомления</string>
     <string name="settings_show_toolbox_quicksettings">Показать выключатель выше быстрых настроек</string>
-    <string name="settings_make_toolbox_transparent">Сделать прозрачным</string>
+    <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_disable_hw_button_light">Отключить аппаратную кнопку подсветки при работе фильтра</string>
     <string name="debug_log">Лог (нужна перезагрузка)</string>
     <string name="debug_dump">Отладочный лог сбрасывается в LogCat</string>

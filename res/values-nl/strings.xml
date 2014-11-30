@@ -9,6 +9,7 @@
     <string name="transparency_range">Transparantie gebied</string>
     <string name="min_transparency">Minimum:</string>
     <string name="max_transparency">Maximum:</string>
+    <string name="set">Set</string>
     <string name="change">Aanpassen</string>
     <string name="enable">Inschakelen</string>
     <string name="disable">Uitschakelen</string>
@@ -33,7 +34,7 @@
     <string name="settings_show_toolbox">Toon toolbox in uitgebreidde status balk</string>
     <string name="settings_show_toolbox_notification">Toon toolbox boven notificaties</string>
     <string name="settings_show_toolbox_quicksettings">Toon toolbox boven snelle instellingenpaneel</string>
-    <string name="settings_make_toolbox_transparent">Maak toolbox transparant</string>
+    <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_disable_hw_button_light">Hardware knoppen licht uitschakelen wanneer filter actief is</string>
     <string name="debug_log">Debug log (herstart vereist)</string>
     <string name="debug_dump">Debug info gedumpt aan logcat</string>

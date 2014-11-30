@@ -9,6 +9,7 @@
     <string name="transparency_range">透過範囲</string>
     <string name="min_transparency">最小:</string>
     <string name="max_transparency">最大:</string>
+    <string name="set">Set</string>
     <string name="change">変更</string>
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
@@ -33,7 +34,7 @@
     <string name="settings_show_toolbox">通知領域にツールボックスを表示</string>
     <string name="settings_show_toolbox_notification">通知の上にツールボックスを表示</string>
     <string name="settings_show_toolbox_quicksettings">クイック設定の上にツールボックスを表示</string>
-    <string name="settings_make_toolbox_transparent">ツールボックスを透過</string>
+    <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">デバッグログ（要再起動）</string>
     <string name="debug_dump">Debug info dumped to logcat</string>
