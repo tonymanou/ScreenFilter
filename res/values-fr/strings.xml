@@ -20,6 +20,7 @@
     <string name="double_tap">Double pression</string>
     <string name="long_press">Longue pression</string>
     <string name="realtime_preview">Visualiser les changements en temps réel</string>
+    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
     <string name="warn_min_transparency">J\'accepte le fait qu\'utiliser une transparence minimale inférieure à 40 peut rendre mon écran entièrement noir et illisible</string>
     <string name="wrong_version">Screen Filter a été mis à jour,\n\nveuillez redémarrer votre appareil pour appliquer les changements.</string>
     <string name="no_service">Le service du filtre n\'a pas été trouvé !\n\nVérifiez que Screen Filter est bien activé dans Xposed Installer et redémarrez votre appareil.</string>
@@ -35,10 +36,9 @@
     <string name="settings_show_toolbox_notification">Afficher en haut du volet des notifications</string>
     <string name="settings_show_toolbox_quicksettings">Afficher en haut du volet des raccourcis</string>
     <string name="settings_toolbox_background">Use colored background</string>
+    <string name="settings_toolbox_colorize">Colorize text and icon</string>
     <string name="settings_disable_hw_button_light">Désactiver le rétroéclairage des boutons physiques quand le filtre est actif</string>
     <string name="debug_log">Debug log (redémarrage requis)</string>
-    <string name="debug_dump">Informations de débogage écrites dans logcat</string>
-    <string name="dump_display_list">Infos sur les affichages</string>
     <string name="please_reboot">Redémarrez votre appareil pour appliquer les changements</string>
 
 </resources>

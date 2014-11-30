@@ -20,6 +20,7 @@
     <string name="double_tap">Double tap</string>
     <string name="long_press">Long press</string>
     <string name="realtime_preview">Preview the changes in real-time</string>
+    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
     <string name="warn_min_transparency">Minimum saydamlığı 40\'ın altında ayarlamanın ekranımı tamamen siyah ve okunmaz yapabileceğini kabul ediyorum.</string>
     <string name="wrong_version">Screen Filter güncellendi,\n\n değişiklikleri uygulamak için lütfen cihazınızı yeniden başlatın.</string>
     <string name="no_service">Filtre servisi bulunamadı!\n\nEkran Filtresi\'nin Xposed Yükleyici\'de aktif olduğunu kontrol ediniz ve cihazınızı yeniden başlatınız.</string>
@@ -35,10 +36,9 @@
     <string name="settings_show_toolbox_notification">Araç kutusunu bildirimlerin üzerinde göster</string>
     <string name="settings_show_toolbox_quicksettings">Araç kutusunu hızlı ayarların üzerinde göster</string>
     <string name="settings_toolbox_background">Use colored background</string>
+    <string name="settings_toolbox_colorize">Colorize text and icon</string>
     <string name="settings_disable_hw_button_light">Filtre aktifken donanımsal tuşların arka ışıklarını devredışı bırak</string>
     <string name="debug_log">Hata ayıklama günlüğü (yeniden başlatma gerektirir)</string>
-    <string name="debug_dump">Debug info dumped to logcat</string>
-    <string name="dump_display_list">Dump display list</string>
     <string name="please_reboot">Değişiklikleri uygulamak için cihazınızı yeniden başlatın</string>
 
 </resources>

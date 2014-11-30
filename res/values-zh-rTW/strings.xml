@@ -20,6 +20,7 @@
     <string name="double_tap">Double tap</string>
     <string name="long_press">Long press</string>
     <string name="realtime_preview">Preview the changes in real-time</string>
+    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
     <string name="warn_min_transparency">我同意並了解，當使用最小值低於40的透明度時，可能會造成我的螢幕變成全黑並且無法閱讀。</string>
     <string name="wrong_version">Screen Filter 已經更新，\n\n請重新啟動您的裝置以使變更生效。</string>
     <string name="no_service">未發現濾鏡服務\n\n請確認 Screen Filter 已經在 Xposed 安裝器裡啟用並且重新啟動您的手機。</string>
@@ -35,10 +36,9 @@
     <string name="settings_show_toolbox_notification">在通知的上面顯示工具組</string>
     <string name="settings_show_toolbox_quicksettings">在快速設定的上面顯示工具組</string>
     <string name="settings_toolbox_background">Use colored background</string>
+    <string name="settings_toolbox_colorize">Colorize text and icon</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">偵錯錯誤日誌（需要重新啟動）</string>
-    <string name="debug_dump">Debug info dumped to logcat</string>
-    <string name="dump_display_list">Dump display list</string>
     <string name="please_reboot">重新啟動您的裝置以套用變更</string>
 
 </resources>

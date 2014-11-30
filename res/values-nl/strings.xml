@@ -20,6 +20,7 @@
     <string name="double_tap">Double tap</string>
     <string name="long_press">Long press</string>
     <string name="realtime_preview">Preview the changes in real-time</string>
+    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
     <string name="warn_min_transparency">Ik ga akkoord met het feit dat het gebruiken van een minimum transparantie lager dan 40, mijn scherm volledig zwart en onleesbaar kan worden.</string>
     <string name="wrong_version">Screen Filter is geupdate,\n\nherstart je apparaat om de veranderingen toe te passen.</string>
     <string name="no_service">Filter service niet gevonden!\n\nBekijk of Scherm Filter is ingeschakeld in Xposed Installer en herstart je toestel.</string>
@@ -35,10 +36,9 @@
     <string name="settings_show_toolbox_notification">Toon toolbox boven notificaties</string>
     <string name="settings_show_toolbox_quicksettings">Toon toolbox boven snelle instellingenpaneel</string>
     <string name="settings_toolbox_background">Use colored background</string>
+    <string name="settings_toolbox_colorize">Colorize text and icon</string>
     <string name="settings_disable_hw_button_light">Hardware knoppen licht uitschakelen wanneer filter actief is</string>
     <string name="debug_log">Debug log (herstart vereist)</string>
-    <string name="debug_dump">Debug info gedumpt aan logcat</string>
-    <string name="dump_display_list">Dump displaylijst</string>
     <string name="please_reboot">Herstart je apparaat om de veranderingen toe te passen</string>
 
 </resources>

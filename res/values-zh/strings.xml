@@ -20,6 +20,7 @@
     <string name="double_tap">双击</string>
     <string name="long_press">长按</string>
     <string name="realtime_preview">实时预览</string>
+    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
     <string name="warn_min_transparency">我已知道当最低透明度低于40时屏幕可能完全变黑并仍决定设置。</string>
     <string name="wrong_version">屏幕过滤器已更新，请重启以应用更改。</string>
     <string name="no_service">未找到屏幕过滤服务！请确认您是否在Xposed中激活该项并请重启手机。</string>
@@ -35,10 +36,9 @@
     <string name="settings_show_toolbox_notification">在通知上方显示工具箱</string>
     <string name="settings_show_toolbox_quicksettings">在快速设置上方显示工具箱</string>
     <string name="settings_toolbox_background">Use colored background</string>
+    <string name="settings_toolbox_colorize">Colorize text and icon</string>
     <string name="settings_disable_hw_button_light">当屏幕过滤启用时禁用按键背光</string>
     <string name="debug_log">调试日志（需重启）</string>
-    <string name="debug_dump">Debug info dumped to logcat</string>
-    <string name="dump_display_list">Dump display list</string>
     <string name="please_reboot">重启您的设备以应用更改</string>
 
 </resources>

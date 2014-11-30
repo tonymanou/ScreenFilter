@@ -20,6 +20,7 @@
     <string name="double_tap">Double tap</string>
     <string name="long_press">Long press</string>
     <string name="realtime_preview">Preview the changes in real-time</string>
+    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
     <string name="warn_min_transparency">I agree with the fact that using a minimum transparency below 40 can make my screen entirely black and unreadable</string>
     <string name="wrong_version">Screen Filter was updated,\n\nplease reboot your device to apply the changes.</string>
     <string name="no_service">Filter service not found!\n\nCheck that Screen Filter is enabled in Xposed Installer and reboot your device.</string>
@@ -35,10 +36,9 @@
     <string name="settings_show_toolbox_notification">Show toolbox above notifications</string>
     <string name="settings_show_toolbox_quicksettings">Show toolbox above quick settings</string>
     <string name="settings_toolbox_background">Use colored background</string>
+    <string name="settings_toolbox_colorize">Colorize text and icon</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">Debug log (need reboot)</string>
-    <string name="debug_dump">Debug info dumped to logcat</string>
-    <string name="dump_display_list">Dump display list</string>
     <string name="please_reboot">Reboot your device to apply the changes</string>
 
 </resources>

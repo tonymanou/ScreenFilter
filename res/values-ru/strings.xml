@@ -20,6 +20,7 @@
     <string name="double_tap">Двойное нажатие</string>
     <string name="long_press">Удержание</string>
     <string name="realtime_preview">Предварительный просмотр изменений в режиме реального времени</string>
+    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
     <string name="warn_min_transparency">Я согласен с тем, что с использованием минимальной прозрачности ниже 40 может сделать мой экран полностью черный и нечитаемым</string>
     <string name="wrong_version">Screen Filter был обновлен.\n\nПожалуйста, перезагрузите устройство, чтобы изменения вступили в силу.</string>
     <string name="no_service">Службы фильтра не найдена!\n\nУбедитесь, что Screen Filter включен в Xposed Installer и перезагрузить устройство.</string>
@@ -35,10 +36,9 @@
     <string name="settings_show_toolbox_notification">Показать выключатель выше уведомления</string>
     <string name="settings_show_toolbox_quicksettings">Показать выключатель выше быстрых настроек</string>
     <string name="settings_toolbox_background">Use colored background</string>
+    <string name="settings_toolbox_colorize">Colorize text and icon</string>
     <string name="settings_disable_hw_button_light">Отключить аппаратную кнопку подсветки при работе фильтра</string>
     <string name="debug_log">Лог (нужна перезагрузка)</string>
-    <string name="debug_dump">Отладочный лог сбрасывается в LogCat</string>
-    <string name="dump_display_list">Дамп списка отображения</string>
     <string name="please_reboot">Перезагрузите устройство, чтобы применить изменения</string>
 
 </resources>

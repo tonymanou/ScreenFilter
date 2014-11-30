@@ -20,6 +20,7 @@
     <string name="double_tap">Dvojité kliknutie</string>
     <string name="long_press">Dlhé stlačenie</string>
     <string name="realtime_preview">Náhľad zmien v reálnom čase</string>
+    <string name="realtime_preview_warn">(The darkening filter is temporarily disabled during preview)</string>
     <string name="warn_min_transparency">Súhlasím s tým, že pri použití minimálnej priehľadnosti pod hodnotou 40 sa môže displej úplne stmaviť a stať sa nečitateľným</string>
     <string name="wrong_version">Screen Filter bol aktualizovaný,\n\nprosím, reštartnite vaše zariadenie pre aplikovanie zmien.</string>
     <string name="no_service">Nenašla sa služba filtra!\n\nSkontrolujte, či je Screen Filter povolený v Xposed Installeri a reštartujte zariadenie.</string>
@@ -35,10 +36,9 @@
     <string name="settings_show_toolbox_notification">Zobraziť ovládací panel nad oznámeniami</string>
     <string name="settings_show_toolbox_quicksettings">Zobraziť ovládací rýchlymi nastaveniami</string>
     <string name="settings_toolbox_background">Use colored background</string>
+    <string name="settings_toolbox_colorize">Colorize text and icon</string>
     <string name="settings_disable_hw_button_light">Zakázať podsvietenie hardvérových tlačidiel pri aktívnom filtri</string>
     <string name="debug_log">Záznam pre ladenie (vyžadovaný reštart zariadenia)</string>
-    <string name="debug_dump">Informácie pre ladenie boli zapísané do logcatu</string>
-    <string name="dump_display_list">Vypísať informácie o displeji</string>
     <string name="please_reboot">Reštartnite vaše zariadenie pre aplikovanie zmien</string>
 
 </resources>
