@@ -36,7 +36,7 @@
     <string name="settings_show_toolbox_notification">在通知上方显示工具箱</string>
     <string name="settings_show_toolbox_quicksettings">在快速设置上方显示工具箱</string>
     <string name="settings_toolbox_background">Use colored background</string>
-    <string name="settings_toolbox_colorize">Colorize text and icon</string>
+    <string name="settings_toolbox_tint">Tint text and icon</string>
     <string name="settings_disable_hw_button_light">当屏幕过滤启用时禁用按键背光</string>
     <string name="debug_log">调试日志（需重启）</string>
     <string name="please_reboot">重启您的设备以应用更改</string>

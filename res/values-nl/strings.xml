@@ -36,7 +36,7 @@
     <string name="settings_show_toolbox_notification">Toon toolbox boven notificaties</string>
     <string name="settings_show_toolbox_quicksettings">Toon toolbox boven snelle instellingenpaneel</string>
     <string name="settings_toolbox_background">Use colored background</string>
-    <string name="settings_toolbox_colorize">Colorize text and icon</string>
+    <string name="settings_toolbox_tint">Tint text and icon</string>
     <string name="settings_disable_hw_button_light">Hardware knoppen licht uitschakelen wanneer filter actief is</string>
     <string name="debug_log">Debug log (herstart vereist)</string>
     <string name="please_reboot">Herstart je apparaat om de veranderingen toe te passen</string>

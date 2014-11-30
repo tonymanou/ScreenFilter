@@ -36,7 +36,7 @@
     <string name="settings_show_toolbox_notification">Показать выключатель выше уведомления</string>
     <string name="settings_show_toolbox_quicksettings">Показать выключатель выше быстрых настроек</string>
     <string name="settings_toolbox_background">Use colored background</string>
-    <string name="settings_toolbox_colorize">Colorize text and icon</string>
+    <string name="settings_toolbox_tint">Tint text and icon</string>
     <string name="settings_disable_hw_button_light">Отключить аппаратную кнопку подсветки при работе фильтра</string>
     <string name="debug_log">Лог (нужна перезагрузка)</string>
     <string name="please_reboot">Перезагрузите устройство, чтобы применить изменения</string>

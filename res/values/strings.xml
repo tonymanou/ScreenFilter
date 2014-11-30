@@ -36,7 +36,7 @@
     <string name="settings_show_toolbox_notification">Show toolbox above notifications</string>
     <string name="settings_show_toolbox_quicksettings">Show toolbox above quick settings</string>
     <string name="settings_toolbox_background">Use colored background</string>
-    <string name="settings_toolbox_colorize">Colorize text and icon</string>
+    <string name="settings_toolbox_tint">Tint text and icon</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="debug_log">Debug log (need reboot)</string>
     <string name="please_reboot">Reboot your device to apply the changes</string>
