@@ -40,5 +40,11 @@
     <string name="settings_disable_hw_button_light">Désactiver le rétroéclairage des boutons physiques quand le filtre est actif</string>
     <string name="debug_log">Debug log (redémarrage requis)</string>
     <string name="please_reboot">Redémarrez votre appareil pour appliquer les changements</string>
+    <string name="help_toggle_dim">Bascule le filtre obscurcissant</string>
+    <string name="help_toggle_color">Bascule le filtre coloré</string>
+    <string name="help_default_dim">Active le filtre obscurcissant à la valeur par défaut</string>
+    <string name="help_default_color">Active le filtre coloré à la valeur par défaut</string>
+    <string name="help_use_default">Utilise la valeur par défaut</string>
+    <string name="help_store_default">Sauve la valeur courante dans celle par défaut</string>
 
 </resources>

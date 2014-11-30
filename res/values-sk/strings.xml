@@ -40,5 +40,11 @@
     <string name="settings_disable_hw_button_light">Zakázať podsvietenie hardvérových tlačidiel pri aktívnom filtri</string>
     <string name="debug_log">Záznam pre ladenie (vyžadovaný reštart zariadenia)</string>
     <string name="please_reboot">Reštartnite vaše zariadenie pre aplikovanie zmien</string>
+    <string name="help_toggle_dim">Toggle the darkening filter</string>
+    <string name="help_toggle_color">Toggle the color filter</string>
+    <string name="help_default_dim">Enable the darkening filter at the default value</string>
+    <string name="help_default_color">Enable the color filter at the default value</string>
+    <string name="help_use_default">Use the default value</string>
+    <string name="help_store_default">Store the current value as default</string>
 
 </resources>
