@@ -54,6 +54,7 @@
     <!-- Settings -->
     <string name="settings_toolbox">Boite à outils</string>
     <string name="settings_show_toolbox">Afficher la boite à outils dans la barre de status étendue</string>
+    <string name="settings_hide_toolbox">Masquer lorsque le filtre n\'est pas actif</string>
     <string name="settings_show_toolbox_notification">Afficher en haut du volet des notifications</string>
     <string name="settings_show_toolbox_quicksettings">Afficher en haut du volet des raccourcis</string>
     <string name="settings_toolbox_background">Utiliser un fond coloré</string>
@@ -67,6 +68,7 @@
 
     <!-- Help -->
     <string name="help">Aide</string>
+    <string name="help_open_activity">Ouvre les paramètres</string>
     <string name="help_toggle_dim">Bascule le filtre obscurcissant</string>
     <string name="help_toggle_color">Bascule le filtre coloré</string>
     <string name="help_default_dim">Active le filtre obscurcissant à la valeur par défaut</string>

@@ -54,6 +54,7 @@
     <!-- Settings -->
     <string name="settings_toolbox">Toolbox</string>
     <string name="settings_show_toolbox">Zobraziť ovládací panel v rozbalenom stavovom riadku</string>
+    <string name="settings_hide_toolbox">Hide when the filter is not active</string>
     <string name="settings_show_toolbox_notification">Zobraziť ovládací panel nad oznámeniami</string>
     <string name="settings_show_toolbox_quicksettings">Zobraziť ovládací rýchlymi nastaveniami</string>
     <string name="settings_toolbox_background">Use colored background</string>
@@ -67,6 +68,7 @@
 
     <!-- Help -->
     <string name="help">Help</string>
+    <string name="help_open_activity">Open the settings activity</string>
     <string name="help_toggle_dim">Toggle the darkening filter</string>
     <string name="help_toggle_color">Toggle the color filter</string>
     <string name="help_default_dim">Enable the darkening filter at the default value</string>

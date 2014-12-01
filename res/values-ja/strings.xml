@@ -54,6 +54,7 @@
     <!-- Settings -->
     <string name="settings_toolbox">ツールボックス</string>
     <string name="settings_show_toolbox">通知領域にツールボックスを表示</string>
+    <string name="settings_hide_toolbox">Hide when the filter is not active</string>
     <string name="settings_show_toolbox_notification">通知の上にツールボックスを表示</string>
     <string name="settings_show_toolbox_quicksettings">クイック設定の上にツールボックスを表示</string>
     <string name="settings_toolbox_background">色付きの背景を使用</string>
@@ -67,6 +68,7 @@
 
     <!-- Help -->
     <string name="help">ヘルプ</string>
+    <string name="help_open_activity">Open the settings activity</string>
     <string name="help_toggle_dim">調光フィルターを切り替える</string>
     <string name="help_toggle_color">色フィルターを切り替える</string>
     <string name="help_default_dim">デフォルト値で調光フィルターを有効にする</string>
