@@ -11,15 +11,15 @@
     <string name="filter_off">ВЫКЛ</string>
 
     <!-- Filter settings -->
-    <string name="dim_filter">Darkening filter</string>
-    <string name="color_filter">Color filter</string>
+    <string name="dim_filter">Заметнение</string>
+    <string name="color_filter">Цветной фильтр</string>
     <string name="transparency">Прозрачность:</string>
     <string name="min_transparency">Минимум:</string>
     <string name="max_transparency">Максимум:</string>
-    <string name="set">Set</string>
+    <string name="set">Установить</string>
     <string name="change">Изменить</string>
     <string name="color">Цвет:</string>
-    <string name="default_value">Default:</string>
+    <string name="default_value">По умолчанию:</string>
 
     <!-- Locale/Tasker -->
     <string name="enable">Включено</string>
@@ -29,49 +29,49 @@
     <!-- Customization -->
     <string name="customize">Настройка</string>
     <string name="double_tap">Двойное нажатие</string>
-    <string name="simple_press">Simple press</string>
+    <string name="simple_press">Простое нажатие</string>
     <string name="long_press">Удержание</string>
 
     <!-- Color picker dialog -->
     <string name="realtime_preview">Предварительный просмотр изменений в режиме реального времени</string>
-    <string name="realtime_preview_warn">The darkening filter is temporarily disabled during preview</string>
+    <string name="realtime_preview_warn">Затемнение временно отключается во время просмотра</string>
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">Диапазон прозрачности</string>
     <string name="warn_min_transparency">Я согласен с тем, что с использованием минимальной прозрачности ниже 40 может сделать мой экран полностью черный и нечитаемым.</string>
 
     <!-- Error messages -->
-    <string name="not_supported">Not supported</string>
+    <string name="not_supported">Не поддерживается</string>
     <string name="wrong_version">Screen Filter был обновлен.\n\nПожалуйста, перезагрузите устройство, чтобы изменения вступили в силу.</string>
     <string name="no_service">Службы фильтра не найдена!\n\nУбедитесь, что Screen Filter включен в Xposed Installer и перезагрузить устройство.</string>
     <string name="fatal_error">Что-то пошло не так в SystemUI!\n\nПожалуйста, проверьте логи Xposed\'s и сообщить об ошибке на XDA.</string>
 
     <!-- Menu -->
     <string name="menu_about">О модуле</string>
-    <string name="menu_filters">Filters</string>
+    <string name="menu_filters">Фильтры</string>
     <string name="menu_settings">Настройки</string>
 
     <!-- Settings -->
-    <string name="settings_toolbox">Toolbox</string>
+    <string name="settings_toolbox">Инструменты</string>
     <string name="settings_show_toolbox">Показать выключатель в шторке</string>
     <string name="settings_show_toolbox_notification">Показать выключатель выше уведомления</string>
     <string name="settings_show_toolbox_quicksettings">Показать выключатель выше быстрых настроек</string>
-    <string name="settings_toolbox_background">Use colored background</string>
-    <string name="settings_toolbox_tint">Tint text and icon</string>
-    <string name="settings_other">Other</string>
+    <string name="settings_toolbox_background">Использовать цветной фон</string>
+    <string name="settings_toolbox_tint">Оттенок текста и значка</string>
+    <string name="settings_other">Прочее</string>
     <string name="settings_disable_hw_button_light">Отключить аппаратную кнопку подсветки при работе фильтра</string>
-    <string name="settings_enable_boot">Enable at device boot</string>
+    <string name="settings_enable_boot">Включить при загрузке устройства</string>
     <string name="settings_debug">Отладка</string>
     <string name="settings_debug_log">Лог (нужна перезагрузка)</string>
     <string name="please_reboot">Перезагрузите устройство, чтобы применить изменения</string>
 
     <!-- Help -->
-    <string name="help">Help</string>
-    <string name="help_toggle_dim">Toggle the darkening filter</string>
-    <string name="help_toggle_color">Toggle the color filter</string>
-    <string name="help_default_dim">Enable the darkening filter at the default value</string>
-    <string name="help_default_color">Enable the color filter at the default value</string>
-    <string name="help_use_default">Use the default value</string>
-    <string name="help_store_default">Store the current value as default</string>
+    <string name="help">Справка</string>
+    <string name="help_toggle_dim">Переключатель затемнения</string>
+    <string name="help_toggle_color">Переключатель цветного фильтра</string>
+    <string name="help_default_dim">Включить затемнение на значение по умолчанию</string>
+    <string name="help_default_color">Включить цветной фильтр на значение по умолчанию</string>
+    <string name="help_use_default">Использовать значение по умолчанию</string>
+    <string name="help_store_default">Сохранить текущее значение по умолчанию</string>
 
 </resources>
