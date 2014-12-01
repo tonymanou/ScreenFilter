@@ -66,6 +66,7 @@
     <string name="please_reboot">Reinicie el dispositivo para aplicar los cambios</string>
 
     <!-- Help -->
+    <string name="help">Help</string>
     <string name="help_toggle_dim">Toggle the darkening filter</string>
     <string name="help_toggle_color">Toggle the color filter</string>
     <string name="help_default_dim">Enable the darkening filter at the default value</string>

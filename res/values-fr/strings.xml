@@ -66,6 +66,7 @@
     <string name="please_reboot">Redémarrez votre appareil pour appliquer les changements</string>
 
     <!-- Help -->
+    <string name="help">Aide</string>
     <string name="help_toggle_dim">Bascule le filtre obscurcissant</string>
     <string name="help_toggle_color">Bascule le filtre coloré</string>
     <string name="help_default_dim">Active le filtre obscurcissant à la valeur par défaut</string>
