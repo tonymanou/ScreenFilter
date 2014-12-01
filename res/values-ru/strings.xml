@@ -54,7 +54,7 @@
     <!-- Settings -->
     <string name="settings_toolbox">Инструменты</string>
     <string name="settings_show_toolbox">Показать выключатель в шторке</string>
-    <string name="settings_hide_toolbox">Hide when the filter is not active</string>
+    <string name="settings_hide_toolbox">Скрывать когда фильтр не активен</string>
     <string name="settings_show_toolbox_notification">Показать выключатель выше уведомления</string>
     <string name="settings_show_toolbox_quicksettings">Показать выключатель выше быстрых настроек</string>
     <string name="settings_toolbox_background">Использовать цветной фон</string>
@@ -68,7 +68,7 @@
 
     <!-- Help -->
     <string name="help">Справка</string>
-    <string name="help_open_activity">Open the settings activity</string>
+    <string name="help_open_activity">Открыть настройки активити</string>
     <string name="help_toggle_dim">Переключатель затемнения</string>
     <string name="help_toggle_color">Переключатель цветного фильтра</string>
     <string name="help_default_dim">Включить затемнение на значение по умолчанию</string>
