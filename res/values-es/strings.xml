@@ -11,15 +11,15 @@
     <string name="filter_off">Apagar</string>
 
     <!-- Filter settings -->
-    <string name="dim_filter">Darkening filter</string>
-    <string name="color_filter">Color filter</string>
+    <string name="dim_filter">Filtro de oscurecimiento</string>
+    <string name="color_filter">Filtro de color</string>
     <string name="transparency">Transparencia:</string>
     <string name="min_transparency">Mínimo:</string>
     <string name="max_transparency">Máximo:</string>
-    <string name="set">Set</string>
+    <string name="set">Establecer</string>
     <string name="change">Cambiar</string>
     <string name="color">Color:</string>
-    <string name="default_value">Default:</string>
+    <string name="default_value">Predeterminado:</string>
 
     <!-- Locale/Tasker -->
     <string name="enable">Habilitar</string>
@@ -29,51 +29,51 @@
     <!-- Customization -->
     <string name="customize">Personalizar</string>
     <string name="double_tap">Doble toque</string>
-    <string name="simple_press">Simple press</string>
+    <string name="simple_press">Pulsación corta</string>
     <string name="long_press">Pulsación larga</string>
 
     <!-- Color picker dialog -->
-    <string name="realtime_preview">Preview the changes in real-time</string>
-    <string name="realtime_preview_warn">The darkening filter is temporarily disabled during preview</string>
+    <string name="realtime_preview">Vista previa de los cambios en tiempo real</string>
+    <string name="realtime_preview_warn">El filtro de oscurecimiento se desactiva temporalmente durante la vista previa</string>
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">Rango de transparencia</string>
     <string name="warn_min_transparency">Estoy de acuerdo con el hecho de que el uso de una transparencia por debajo de 40 puede hacer la pantalla totalmente negra e ilegible.</string>
 
     <!-- Error messages -->
-    <string name="not_supported">Not supported</string>
+    <string name="not_supported">No soportado</string>
     <string name="wrong_version">Screen Filter se ha actualizado,\n\nPor favor reinicie el dispositivo para aplicar los cambios.</string>
     <string name="no_service">¡Servicio del filtro no encontrado!!\n\nPor favor compruebe que Screen Filter esta habilitado en el instalador de Xposed y reinicie su dispositivo.</string>
     <string name="fatal_error">¡Algo salió mal en SystemUI!\n\nPor favor cheque los registros de Xposed\'s y reporte el error en XDA.</string>
 
     <!-- Menu -->
     <string name="menu_about">Acerca de</string>
-    <string name="menu_filters">Filters</string>
+    <string name="menu_filters">Filtros</string>
     <string name="menu_settings">Ajustes</string>
 
     <!-- Settings -->
     <string name="settings_toolbox">Toolbox</string>
     <string name="settings_show_toolbox">Mostrar la herramienta de ajuste en la barra de estado extendida</string>
-    <string name="settings_hide_toolbox">Hide when the filter is not active</string>
+    <string name="settings_hide_toolbox">Ocultar cuando el filtro no está activo</string>
     <string name="settings_show_toolbox_notification">Mostrar la herramienta de ajuste sobre las notificaciones</string>
     <string name="settings_show_toolbox_quicksettings">Mostrar la herramienta de ajuste sobre los ajustes rápidos</string>
-    <string name="settings_toolbox_background">Use colored background</string>
-    <string name="settings_toolbox_tint">Tint text and icon</string>
-    <string name="settings_other">Other</string>
+    <string name="settings_toolbox_background">Usar fondo de color</string>
+    <string name="settings_toolbox_tint">Tintar texto e icono</string>
+    <string name="settings_other">Otro</string>
     <string name="settings_disable_hw_button_light">Inhabilitar la luz de fondo de los botones físicos cuando el filtro esté activo</string>
-    <string name="settings_enable_boot">Enable at device boot</string>
+    <string name="settings_enable_boot">Habilitar en el arranque del dispositivo</string>
     <string name="settings_debug">Depurar</string>
     <string name="settings_debug_log">Registro de depuración (Requiere reiniciar)</string>
     <string name="please_reboot">Reinicie el dispositivo para aplicar los cambios</string>
 
     <!-- Help -->
-    <string name="help">Help</string>
-    <string name="help_open_activity">Open the settings activity</string>
-    <string name="help_toggle_dim">Toggle the darkening filter</string>
-    <string name="help_toggle_color">Toggle the color filter</string>
-    <string name="help_default_dim">Enable the darkening filter at the default value</string>
-    <string name="help_default_color">Enable the color filter at the default value</string>
-    <string name="help_use_default">Use the default value</string>
-    <string name="help_store_default">Store the current value as default</string>
+    <string name="help">Ayuda</string>
+    <string name="help_open_activity">Abra la actividad de ajustes</string>
+    <string name="help_toggle_dim">Alternar el filtro de oscurecimiento</string>
+    <string name="help_toggle_color">Alternar filtro de color</string>
+    <string name="help_default_dim">Habilitar el filtro de oscurecimiento en el valor predeterminado</string>
+    <string name="help_default_color">Habilitar filtro de color en el valor predeterminado</string>
+    <string name="help_use_default">Usar el valor predeterminado</string>
+    <string name="help_store_default">Guardar el valor actual como predeterminado</string>
 
 </resources>
