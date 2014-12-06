@@ -11,15 +11,15 @@
     <string name="filter_off">关闭</string>
 
     <!-- Filter settings -->
-    <string name="dim_filter">Darkening filter</string>
-    <string name="color_filter">Color filter</string>
+    <string name="dim_filter">透明度过滤</string>
+    <string name="color_filter">颜色过滤</string>
     <string name="transparency">透明度:</string>
     <string name="min_transparency">最低透明度：</string>
     <string name="max_transparency">最高透明度：</string>
-    <string name="set">Set</string>
+    <string name="set">应用</string>
     <string name="change">应用</string>
     <string name="color">颜色：</string>
-    <string name="default_value">Default:</string>
+    <string name="default_value">默认:</string>
 
     <!-- Locale/Tasker -->
     <string name="enable">启用</string>
@@ -29,51 +29,51 @@
     <!-- Customization -->
     <string name="customize">自定义</string>
     <string name="double_tap">双击</string>
-    <string name="simple_press">Simple press</string>
+    <string name="simple_press">点击</string>
     <string name="long_press">长按</string>
 
     <!-- Color picker dialog -->
     <string name="realtime_preview">实时预览</string>
-    <string name="realtime_preview_warn">The darkening filter is temporarily disabled during preview</string>
+    <string name="realtime_preview_warn">预览时会暂时禁用屏幕过滤</string>
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">透明度范围</string>
     <string name="warn_min_transparency">我已知道当最低透明度低于40时屏幕可能完全变黑并仍决定设置。</string>
 
     <!-- Error messages -->
-    <string name="not_supported">Not supported</string>
+    <string name="not_supported">不支持</string>
     <string name="wrong_version">屏幕过滤器已更新，请重启以应用更改。</string>
     <string name="no_service">未找到屏幕过滤服务！请确认您是否在Xposed中激活该项并请重启手机。</string>
     <string name="fatal_error">系统用户界面出错！请检查Xposed安装器日志并请在XDA论坛将该错误报告给我。</string>
 
     <!-- Menu -->
     <string name="menu_about">关于</string>
-    <string name="menu_filters">Filters</string>
+    <string name="menu_filters">过滤</string>
     <string name="menu_settings">设置</string>
 
     <!-- Settings -->
-    <string name="settings_toolbox">Toolbox</string>
+    <string name="settings_toolbox">工具箱</string>
     <string name="settings_show_toolbox">在通知面板中显示工具箱</string>
-    <string name="settings_hide_toolbox">Hide when the filter is not active</string>
+    <string name="settings_hide_toolbox">当屏幕过滤未启用时隐藏工具箱</string>
     <string name="settings_show_toolbox_notification">在通知上方显示工具箱</string>
     <string name="settings_show_toolbox_quicksettings">在快速设置上方显示工具箱</string>
-    <string name="settings_toolbox_background">Use colored background</string>
-    <string name="settings_toolbox_tint">Tint text and icon</string>
-    <string name="settings_other">Other</string>
+    <string name="settings_toolbox_background">使用颜色背景</string>
+    <string name="settings_toolbox_tint">彩色文字与图标</string>
+    <string name="settings_other">其他</string>
     <string name="settings_disable_hw_button_light">当屏幕过滤启用时禁用按键背光</string>
-    <string name="settings_enable_boot">Enable at device boot</string>
+    <string name="settings_enable_boot">当手机开机时启动</string>
     <string name="settings_debug">调试</string>
     <string name="settings_debug_log">调试日志（需重启）</string>
     <string name="please_reboot">重启您的设备以应用更改</string>
 
     <!-- Help -->
-    <string name="help">Help</string>
-    <string name="help_open_activity">Open the settings activity</string>
-    <string name="help_toggle_dim">Toggle the darkening filter</string>
-    <string name="help_toggle_color">Toggle the color filter</string>
-    <string name="help_default_dim">Enable the darkening filter at the default value</string>
-    <string name="help_default_color">Enable the color filter at the default value</string>
-    <string name="help_use_default">Use the default value</string>
-    <string name="help_store_default">Store the current value as default</string>
+    <string name="help">帮助</string>
+    <string name="help_open_activity">打开设置界面</string>
+    <string name="help_toggle_dim">打开屏幕过滤</string>
+    <string name="help_toggle_color">打开屏幕过滤颜色</string>
+    <string name="help_default_dim">以默认透明度打开屏幕过滤</string>
+    <string name="help_default_color">以默认颜色值打开屏幕过滤</string>
+    <string name="help_use_default">使用默认颜色值</string>
+    <string name="help_store_default">将当前值恢复为默认值</string>
 
 </resources>
