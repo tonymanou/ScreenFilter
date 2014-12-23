@@ -22,6 +22,7 @@
     <string name="default_value">Par défaut :</string>
 
     <!-- Locale/Tasker -->
+    <string name="donotchange">Ne pas changer</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
     <string name="toggle">Basculer</string>
@@ -60,6 +61,7 @@
     <string name="settings_toolbox_background">Utiliser un fond coloré</string>
     <string name="settings_toolbox_tint">Teinter le texte et l\'icône</string>
     <string name="settings_other">Autre</string>
+    <string name="settings_link_filters">Lier l\'état des filtres coloré et obscurcissant</string>
     <string name="settings_disable_hw_button_light">Désactiver le rétroéclairage des boutons physiques quand le filtre est actif</string>
     <string name="settings_enable_boot">Activer au démarrage de l\'appareil</string>
     <string name="settings_debug">Debug</string>

@@ -22,6 +22,7 @@
     <string name="default_value">Default:</string>
 
     <!-- Locale/Tasker -->
+    <string name="donotchange">Do not change</string>
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
     <string name="toggle">Toggle</string>
@@ -60,6 +61,7 @@
     <string name="settings_toolbox_background">Use colored background</string>
     <string name="settings_toolbox_tint">Tint text and icon</string>
     <string name="settings_other">Other</string>
+    <string name="settings_link_filters">Link the state of color and darkening filters</string>
     <string name="settings_disable_hw_button_light">Disable hardware buttons backlight when filter is active</string>
     <string name="settings_enable_boot">Enable at device boot</string>
     <string name="settings_debug">Debug</string>

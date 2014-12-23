@@ -22,6 +22,7 @@
     <string name="default_value">Predeterminado:</string>
 
     <!-- Locale/Tasker -->
+    <string name="donotchange">Do not change</string>
     <string name="enable">Habilitar</string>
     <string name="disable">Inhabilitar</string>
     <string name="toggle">Alternar</string>
@@ -60,6 +61,7 @@
     <string name="settings_toolbox_background">Usar fondo de color</string>
     <string name="settings_toolbox_tint">Tintar texto e icono</string>
     <string name="settings_other">Otro</string>
+    <string name="settings_link_filters">Link the state of color and darkening filters</string>
     <string name="settings_disable_hw_button_light">Inhabilitar la luz de fondo de los botones físicos cuando el filtro esté activo</string>
     <string name="settings_enable_boot">Habilitar en el arranque del dispositivo</string>
     <string name="settings_debug">Depurar</string>

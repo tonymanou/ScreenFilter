@@ -22,6 +22,7 @@
     <string name="default_value">默认:</string>
 
     <!-- Locale/Tasker -->
+    <string name="donotchange">Do not change</string>
     <string name="enable">启用</string>
     <string name="disable">禁用</string>
     <string name="toggle">切换</string>
@@ -60,6 +61,7 @@
     <string name="settings_toolbox_background">使用颜色背景</string>
     <string name="settings_toolbox_tint">彩色文字与图标</string>
     <string name="settings_other">其他</string>
+    <string name="settings_link_filters">Link the state of color and darkening filters</string>
     <string name="settings_disable_hw_button_light">当屏幕过滤启用时禁用按键背光</string>
     <string name="settings_enable_boot">当手机开机时启动</string>
     <string name="settings_debug">调试</string>

@@ -22,6 +22,7 @@
     <string name="default_value">デフォルト:</string>
 
     <!-- Locale/Tasker -->
+    <string name="donotchange">Do not change</string>
     <string name="enable">有効化</string>
     <string name="disable">無効化</string>
     <string name="toggle">切り替える</string>
@@ -60,6 +61,7 @@
     <string name="settings_toolbox_background">色付きの背景を使用</string>
     <string name="settings_toolbox_tint">文字とアイコンを色付け</string>
     <string name="settings_other">その他</string>
+    <string name="settings_link_filters">Link the state of color and darkening filters</string>
     <string name="settings_disable_hw_button_light">フィルターが有効になっているときはハードウェアボタンのバックライトを無効化</string>
     <string name="settings_enable_boot">端末の起動時に有効化</string>
     <string name="settings_debug">デバッグ</string>

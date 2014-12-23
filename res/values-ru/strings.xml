@@ -22,6 +22,7 @@
     <string name="default_value">По умолчанию:</string>
 
     <!-- Locale/Tasker -->
+    <string name="donotchange">Do not change</string>
     <string name="enable">Включено</string>
     <string name="disable">Отключено</string>
     <string name="toggle">Переключатель</string>
@@ -60,6 +61,7 @@
     <string name="settings_toolbox_background">Использовать цветной фон</string>
     <string name="settings_toolbox_tint">Оттенок текста и значка</string>
     <string name="settings_other">Прочее</string>
+    <string name="settings_link_filters">Link the state of color and darkening filters</string>
     <string name="settings_disable_hw_button_light">Отключить аппаратную кнопку подсветки при работе фильтра</string>
     <string name="settings_enable_boot">Включить при загрузке устройства</string>
     <string name="settings_debug">Отладка</string>
