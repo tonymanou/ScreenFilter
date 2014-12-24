@@ -22,7 +22,7 @@
     <string name="default_value">Predvolená:</string>
 
     <!-- Locale/Tasker -->
-    <string name="donotchange">Do not change</string>
+    <string name="donotchange">Nemeniť</string>
     <string name="enable">Povoliť</string>
     <string name="disable">Zakázať</string>
     <string name="toggle">Prepnúť</string>
@@ -61,7 +61,7 @@
     <string name="settings_toolbox_background">Použiť farebné pozadie</string>
     <string name="settings_toolbox_tint">Zafarbiť text a ikonu</string>
     <string name="settings_other">Ostatné</string>
-    <string name="settings_link_filters">Link the state of color and darkening filters</string>
+    <string name="settings_link_filters">Spojiť stav farebného filtra a filtra stmavenia</string>
     <string name="settings_disable_hw_button_light">Zakázať podsvietenie hardvérových tlačidiel pri aktívnom filtri</string>
     <string name="settings_enable_boot">Povoliť po zapnutí zariadenia</string>
     <string name="settings_debug">Ladenie</string>
