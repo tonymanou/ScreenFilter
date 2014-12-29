@@ -5,6 +5,10 @@
 
     <!-- About -->
     <string name="about_author"><![CDATA[par <b>tonymanou</b> (<b>tony78960</b> sur XDA)]]></string>
+    <string name="about_translation">Traduction :</string>
+    <string name="about_translator"></string>
+    <string name="about_thread">Fil de discussion :</string>
+    <string name="about_source">Code source :</string>
     <string name="about_libraries">Librairies utilisées :</string>
 
     <!-- Toolbox -->
@@ -18,6 +22,7 @@
     <string name="max_transparency">Maximum :</string>
     <string name="set">Définir</string>
     <string name="change">Changer</string>
+    <string name="intensity">Intensité :</string>
     <string name="color">Couleur :</string>
     <string name="default_value">Par défaut :</string>
 

@@ -5,6 +5,10 @@
 
     <!-- About -->
     <string name="about_author"><![CDATA[by <b>tonymanou</b> (<b>tony78960</b> on XDA)]]></string>
+    <string name="about_translation">Translation:</string>
+    <string name="about_translator"></string>
+    <string name="about_thread">Support thread:</string>
+    <string name="about_source">Source code:</string>
     <string name="about_libraries">Used libraries:</string>
 
     <!-- Toolbox -->
@@ -18,6 +22,7 @@
     <string name="max_transparency">最高透明度：</string>
     <string name="set">应用</string>
     <string name="change">应用</string>
+    <string name="intensity">Intensity:</string>
     <string name="color">颜色：</string>
     <string name="default_value">默认:</string>
 
