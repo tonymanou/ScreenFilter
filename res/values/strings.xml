@@ -4,7 +4,7 @@
     <string name="xposed_description">Add a filter to your screen</string>
 
     <!-- About -->
-    <string name="about_author"><![CDATA[by <b>tonymanou</b> (<b>tony78960</b> on XDA)]]></string>
+    <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> on XDA)]]></string>
     <string name="about_translation">Translation:</string>
     <string name="about_translator"></string>
     <string name="about_thread">Support thread:</string>

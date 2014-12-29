@@ -4,9 +4,9 @@
     <string name="xposed_description">Voeg een filter toe aan je scherm</string>
 
     <!-- About -->
-    <string name="about_author"><![CDATA[door <b>tonymanou</b> (<b>tony78960</b> on XDA)]]></string>
+    <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> on XDA)]]></string>
     <string name="about_translation">Translation:</string>
-    <string name="about_translator"></string>
+    <string name="about_translator"><![CDATA[<b>ShaneSik</b>]]></string>
     <string name="about_thread">Support thread:</string>
     <string name="about_source">Source code:</string>
     <string name="about_libraries">Gebruikte bibliotheken:</string>

@@ -4,9 +4,9 @@
     <string name="xposed_description">Pridať filter na obrazovku</string>
 
     <!-- About -->
-    <string name="about_author"><![CDATA[od <b>tonymanou</b> (<b>tony78960</b> na XDA)]]></string>
+    <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> na XDA)]]></string>
     <string name="about_translation">Translation:</string>
-    <string name="about_translator"></string>
+    <string name="about_translator"><![CDATA[<b>pylerSM</b>]]></string>
     <string name="about_thread">Support thread:</string>
     <string name="about_source">Source code:</string>
     <string name="about_libraries">Použité knižnice:</string>
