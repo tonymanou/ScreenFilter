@@ -5,10 +5,10 @@
 
     <!-- About -->
     <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> с XDA)]]></string>
-    <string name="about_translation">Translation:</string>
+    <string name="about_translation">Переводчик:</string>
     <string name="about_translator"><![CDATA[<b>3D MA$TER</b>]]></string>
-    <string name="about_thread">Support thread:</string>
-    <string name="about_source">Source code:</string>
+    <string name="about_thread">Поддержка потоков:</string>
+    <string name="about_source">Исходный код:</string>
     <string name="about_libraries">Используемые библиотеки:</string>
 
     <!-- Toolbox -->
@@ -22,12 +22,12 @@
     <string name="max_transparency">Максимум:</string>
     <string name="set">Установить</string>
     <string name="change">Изменить</string>
-    <string name="intensity">Intensity:</string>
+    <string name="intensity">Интенсивность:</string>
     <string name="color">Цвет:</string>
     <string name="default_value">По умолчанию:</string>
 
     <!-- Locale/Tasker -->
-    <string name="donotchange">Do not change</string>
+    <string name="donotchange">Не изменять</string>
     <string name="enable">Включено</string>
     <string name="disable">Отключено</string>
     <string name="toggle">Переключатель</string>
@@ -66,7 +66,7 @@
     <string name="settings_toolbox_background">Использовать цветной фон</string>
     <string name="settings_toolbox_tint">Оттенок текста и значка</string>
     <string name="settings_other">Прочее</string>
-    <string name="settings_link_filters">Link the state of color and darkening filters</string>
+    <string name="settings_link_filters">Ссылка на состояние цвета и затемнение фильтров</string>
     <string name="settings_disable_hw_button_light">Отключить аппаратную кнопку подсветки при работе фильтра</string>
     <string name="settings_enable_boot">Включить при загрузке устройства</string>
     <string name="settings_debug">Отладка</string>
