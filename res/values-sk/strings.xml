@@ -32,6 +32,12 @@
     <string name="disable">Zakázať</string>
     <string name="toggle">Prepnúť</string>
 
+    <!-- Shortcut -->
+    <string name="toggle_dim">Toggle darkening filter</string>
+    <string name="toggle_color">Toggle color filter</string>
+    <string name="toggle_both_linked">Toggle both (linked)</string>
+    <string name="toggle_both">Toggle both</string>
+
     <!-- Customization -->
     <string name="customize">Prispôsobiť</string>
     <string name="double_tap">Dvojité kliknutie</string>

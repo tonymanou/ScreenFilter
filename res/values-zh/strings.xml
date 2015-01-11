@@ -32,6 +32,12 @@
     <string name="disable">禁用</string>
     <string name="toggle">切换</string>
 
+    <!-- Shortcut -->
+    <string name="toggle_dim">Toggle darkening filter</string>
+    <string name="toggle_color">Toggle color filter</string>
+    <string name="toggle_both_linked">Toggle both (linked)</string>
+    <string name="toggle_both">Toggle both</string>
+
     <!-- Customization -->
     <string name="customize">自定义</string>
     <string name="double_tap">双击</string>

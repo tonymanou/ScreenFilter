@@ -32,6 +32,12 @@
     <string name="disable">Désactiver</string>
     <string name="toggle">Basculer</string>
 
+    <!-- Shortcut -->
+    <string name="toggle_dim">Basculer filtre obscurcissant</string>
+    <string name="toggle_color">Baculer filtre coloré</string>
+    <string name="toggle_both_linked">Basculer filtres (liés)</string>
+    <string name="toggle_both">Basculer filtres</string>
+
     <!-- Customization -->
     <string name="customize">Personnaliser</string>
     <string name="double_tap">Double pression</string>
