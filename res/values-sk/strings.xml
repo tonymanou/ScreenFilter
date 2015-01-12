@@ -5,10 +5,10 @@
 
     <!-- About -->
     <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> na XDA)]]></string>
-    <string name="about_translation">Translation:</string>
-    <string name="about_translator"><![CDATA[<b>pylerSM</b>]]></string>
-    <string name="about_thread">Support thread:</string>
-    <string name="about_source">Source code:</string>
+    <string name="about_translation">Preklad:</string>
+    <string name="about_translator"><![CDATA[<b>pyler</b>]]></string>
+    <string name="about_thread">Téma podpory:</string>
+    <string name="about_source">Zdrojový kód:</string>
     <string name="about_libraries">Použité knižnice:</string>
 
     <!-- Toolbox -->
@@ -22,7 +22,7 @@
     <string name="max_transparency">Maximum:</string>
     <string name="set">Nastaviť</string>
     <string name="change">Zmeniť</string>
-    <string name="intensity">Intensity:</string>
+    <string name="intensity">Intenzita:</string>
     <string name="color">Farba:</string>
     <string name="default_value">Predvolená:</string>
 
@@ -33,10 +33,10 @@
     <string name="toggle">Prepnúť</string>
 
     <!-- Shortcut -->
-    <string name="toggle_dim">Toggle darkening filter</string>
-    <string name="toggle_color">Toggle color filter</string>
-    <string name="toggle_both_linked">Toggle both (linked)</string>
-    <string name="toggle_both">Toggle both</string>
+    <string name="toggle_dim">Prepnúť filter stmavenia</string>
+    <string name="toggle_color">Prepnúť farebný filter</string>
+    <string name="toggle_both_linked">Prepnúť filtre (spojené)</string>
+    <string name="toggle_both">Prepnúť filtre</string>
 
     <!-- Customization -->
     <string name="customize">Prispôsobiť</string>
