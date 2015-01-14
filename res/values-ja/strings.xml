@@ -5,10 +5,10 @@
 
     <!-- About -->
     <string name="about_author"><![CDATA[<b>tonymanou</b>（<b>tony78960</b> on XDA）]]></string>
-    <string name="about_translation">Translation:</string>
+    <string name="about_translation">翻訳:</string>
     <string name="about_translator"><![CDATA[<b>blackzigong</b>]]></string>
-    <string name="about_thread">Support thread:</string>
-    <string name="about_source">Source code:</string>
+    <string name="about_thread">サポートスレッド:</string>
+    <string name="about_source">ソースコード:</string>
     <string name="about_libraries">使用ライブラリ:</string>
 
     <!-- Toolbox -->
@@ -16,27 +16,27 @@
 
     <!-- Filter settings -->
     <string name="dim_filter">調光フィルター</string>
-    <string name="color_filter">色フィルター</string>
+    <string name="color_filter">色彩フィルター</string>
     <string name="transparency">透過度:</string>
     <string name="min_transparency">最小:</string>
     <string name="max_transparency">最大:</string>
     <string name="set">設定</string>
     <string name="change">変更</string>
-    <string name="intensity">Intensity:</string>
+    <string name="intensity">彩度:</string>
     <string name="color">色:</string>
     <string name="default_value">デフォルト:</string>
 
     <!-- Locale/Tasker -->
-    <string name="donotchange">Do not change</string>
+    <string name="donotchange">変更しない</string>
     <string name="enable">有効化</string>
     <string name="disable">無効化</string>
     <string name="toggle">切り替える</string>
 
     <!-- Shortcut -->
-    <string name="toggle_dim">Toggle darkening filter</string>
-    <string name="toggle_color">Toggle color filter</string>
-    <string name="toggle_both_linked">Toggle both (linked)</string>
-    <string name="toggle_both">Toggle both</string>
+    <string name="toggle_dim">調光フィルターを切り替える</string>
+    <string name="toggle_color">色彩フィルターを切り替える</string>
+    <string name="toggle_both_linked">両方切り替える（リンク）</string>
+    <string name="toggle_both">両方切り替える</string>
 
     <!-- Customization -->
     <string name="customize">カスタマイズ</string>
@@ -50,7 +50,7 @@
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">透過範囲</string>
-    <string name="warn_min_transparency">40以下の低い透過度を使用すると画面が真っ暗になり見えなくなる可能性があるということに同意します。</string>
+    <string name="warn_min_transparency">40以下の低い透過度を使用すると画面が真っ暗になり見えなくなる可能性があることに同意します。</string>
 
     <!-- Error messages -->
     <string name="not_supported">サポートされていません</string>
@@ -72,7 +72,7 @@
     <string name="settings_toolbox_background">色付きの背景を使用</string>
     <string name="settings_toolbox_tint">文字とアイコンを色付け</string>
     <string name="settings_other">その他</string>
-    <string name="settings_link_filters">Link the state of color and darkening filters</string>
+    <string name="settings_link_filters">色調フィルターと調光フィルターの状態をリンク</string>
     <string name="settings_disable_hw_button_light">フィルターが有効になっているときはハードウェアボタンのバックライトを無効化</string>
     <string name="settings_enable_boot">端末の起動時に有効化</string>
     <string name="settings_debug">デバッグ</string>
@@ -83,9 +83,9 @@
     <string name="help">ヘルプ</string>
     <string name="help_open_activity">設定のアクティビティを開く</string>
     <string name="help_toggle_dim">調光フィルターを切り替える</string>
-    <string name="help_toggle_color">色フィルターを切り替える</string>
+    <string name="help_toggle_color">色彩フィルターを切り替える</string>
     <string name="help_default_dim">デフォルト値で調光フィルターを有効にする</string>
-    <string name="help_default_color">デフォルト値で色フィルターを有効にする</string>
+    <string name="help_default_color">デフォルト値で色彩フィルターを有効にする</string>
     <string name="help_use_default">デフォルト値を使用する</string>
     <string name="help_store_default">現在の値をデフォルト値として保存する</string>
 
