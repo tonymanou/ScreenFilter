@@ -33,10 +33,10 @@
     <string name="toggle">Переключатель</string>
 
     <!-- Shortcut -->
-    <string name="toggle_dim">Toggle darkening filter</string>
-    <string name="toggle_color">Toggle color filter</string>
-    <string name="toggle_both_linked">Toggle both (linked)</string>
-    <string name="toggle_both">Toggle both</string>
+    <string name="toggle_dim">Переключить затемнение фильтра</string>
+    <string name="toggle_color">Переключить цветной фильтр</string>
+    <string name="toggle_both_linked">Оба переключателя (Ссылки)</string>
+    <string name="toggle_both">Оба переключателя</string>
 
     <!-- Customization -->
     <string name="customize">Настройка</string>
