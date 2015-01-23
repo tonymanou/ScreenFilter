@@ -24,6 +24,7 @@
     <string name="change">修改</string>
     <string name="intensity">Intensity:</string>
     <string name="color">Color:</string>
+    <string name="temperature">Temperature</string>
     <string name="default_value">Default:</string>
 
     <!-- Locale/Tasker -->
@@ -54,6 +55,7 @@
 
     <!-- Error messages -->
     <string name="not_supported">Not supported</string>
+    <string name="not_supported_by_rom">Not supported by some ROMs</string>
     <string name="wrong_version">Screen Filter 已經更新，\n\n請重新啟動您的裝置以使變更生效。</string>
     <string name="no_service">未發現濾鏡服務\n\n請確認 Screen Filter 已經在 Xposed 安裝器裡啟用並且重新啟動您的手機。</string>
     <string name="fatal_error">系統使用者介面(SystemUI)發生錯誤！\n\n請確認 Xposed 的錯誤日誌並且在 XDA 回報這個錯誤。</string>

@@ -24,6 +24,7 @@
     <string name="change">Changer</string>
     <string name="intensity">Intensité :</string>
     <string name="color">Couleur :</string>
+    <string name="temperature">Température</string>
     <string name="default_value">Par défaut :</string>
 
     <!-- Locale/Tasker -->
@@ -54,6 +55,7 @@
 
     <!-- Error messages -->
     <string name="not_supported">Non supporté</string>
+    <string name="not_supported_by_rom">Non supporté par certaines ROMs</string>
     <string name="wrong_version">Screen Filter a été mis à jour,\n\nveuillez redémarrer votre appareil pour appliquer les changements.</string>
     <string name="no_service">Le service du filtre n\'a pas été trouvé !\n\nVérifiez que Screen Filter est bien activé dans Xposed Installer et redémarrez votre appareil.</string>
     <string name="fatal_error">Un problème est survenu dans SystemUI !\n\nVeuillez vérifier les logs d\'Xposed et reporter l\'erreur sur XDA.</string>

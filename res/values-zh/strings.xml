@@ -24,6 +24,7 @@
     <string name="change">应用</string>
     <string name="intensity">Intensity:</string>
     <string name="color">颜色：</string>
+    <string name="temperature">Temperature</string>
     <string name="default_value">默认:</string>
 
     <!-- Locale/Tasker -->
@@ -54,6 +55,7 @@
 
     <!-- Error messages -->
     <string name="not_supported">不支持</string>
+    <string name="not_supported_by_rom">Not supported by some ROMs</string>
     <string name="wrong_version">屏幕过滤器已更新，请重启以应用更改。</string>
     <string name="no_service">未找到屏幕过滤服务！请确认您是否在Xposed中激活该项并请重启手机。</string>
     <string name="fatal_error">系统用户界面出错！请检查Xposed安装器日志并请在XDA论坛将该错误报告给我。</string>
