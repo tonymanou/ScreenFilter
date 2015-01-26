@@ -5,11 +5,11 @@
 
     <!-- About -->
     <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> on XDA)]]></string>
-    <string name="about_translation">Translation:</string>
+    <string name="about_translation">翻译:</string>
     <string name="about_translator"><![CDATA[<b>Anyoe</b>]]></string>
-    <string name="about_thread">Support thread:</string>
-    <string name="about_source">Source code:</string>
-    <string name="about_libraries">Used libraries:</string>
+    <string name="about_thread">论坛地址:</string>
+    <string name="about_source">源码:</string>
+    <string name="about_libraries">参考代码库:</string>
 
     <!-- Toolbox -->
     <string name="filter_off">关闭</string>
@@ -22,22 +22,22 @@
     <string name="max_transparency">最高透明度：</string>
     <string name="set">应用</string>
     <string name="change">应用</string>
-    <string name="intensity">Intensity:</string>
+    <string name="intensity">强度:</string>
     <string name="color">颜色</string>
-    <string name="temperature">Temperature</string>
+    <string name="temperature">温度</string>
     <string name="default_value">默认:</string>
 
     <!-- Locale/Tasker -->
-    <string name="donotchange">Do not change</string>
+    <string name="donotchange">不做更改</string>
     <string name="enable">启用</string>
     <string name="disable">禁用</string>
     <string name="toggle">切换</string>
 
     <!-- Shortcut -->
-    <string name="toggle_dim">Toggle darkening filter</string>
-    <string name="toggle_color">Toggle color filter</string>
-    <string name="toggle_both_linked">Toggle both (linked)</string>
-    <string name="toggle_both">Toggle both</string>
+    <string name="toggle_dim">切换至屏幕过滤</string>
+    <string name="toggle_color">切换至颜色过滤</string>
+    <string name="toggle_both_linked">切换至已链接的屏幕颜色过滤</string>
+    <string name="toggle_both">切换至屏幕颜色过滤</string>
 
     <!-- Customization -->
     <string name="customize">自定义</string>
@@ -55,7 +55,7 @@
 
     <!-- Error messages -->
     <string name="not_supported">不支持</string>
-    <string name="not_supported_by_rom">Not supported by some ROMs</string>
+    <string name="not_supported_by_rom">无法支持某些ROM</string>
     <string name="wrong_version">屏幕过滤器已更新，请重启以应用更改。</string>
     <string name="no_service">未找到屏幕过滤服务！请确认您是否在Xposed中激活该项并请重启手机。</string>
     <string name="fatal_error">系统用户界面出错！请检查Xposed安装器日志并请在XDA论坛将该错误报告给我。</string>
@@ -74,7 +74,7 @@
     <string name="settings_toolbox_background">使用颜色背景</string>
     <string name="settings_toolbox_tint">彩色文字与图标</string>
     <string name="settings_other">其他</string>
-    <string name="settings_link_filters">Link the state of color and darkening filters</string>
+    <string name="settings_link_filters">将当前的屏幕过滤与颜色过滤链接在一起</string>
     <string name="settings_disable_hw_button_light">当屏幕过滤启用时禁用按键背光</string>
     <string name="settings_enable_boot">当手机开机时启动</string>
     <string name="settings_debug">调试</string>
