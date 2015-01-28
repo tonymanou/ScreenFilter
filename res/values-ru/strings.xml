@@ -24,7 +24,7 @@
     <string name="change">Изменить</string>
     <string name="intensity">Интенсивность:</string>
     <string name="color">Цвет</string>
-    <string name="temperature">Temperature</string>
+    <string name="temperature">Температура</string>
     <string name="default_value">По умолчанию:</string>
 
     <!-- Locale/Tasker -->
@@ -55,7 +55,7 @@
 
     <!-- Error messages -->
     <string name="not_supported">Не поддерживается</string>
-    <string name="not_supported_by_rom">Not supported by some ROMs</string>
+    <string name="not_supported_by_rom">Не поддерживается прошивкой</string>
     <string name="wrong_version">Screen Filter был обновлен.\n\nПожалуйста, перезагрузите устройство, чтобы изменения вступили в силу.</string>
     <string name="no_service">Службы фильтра не найдена!\n\nУбедитесь, что Screen Filter включен в Xposed Installer и перезагрузить устройство.</string>
     <string name="fatal_error">Что-то пошло не так в SystemUI!\n\nПожалуйста, проверьте логи Xposed\'s и сообщить об ошибке на XDA.</string>
