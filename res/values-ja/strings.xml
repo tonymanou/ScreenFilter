@@ -48,6 +48,14 @@
     <!-- Color picker dialog -->
     <string name="realtime_preview">リアルタイムに変更をプレビューする</string>
     <string name="realtime_preview_warn">プレビュー中は調光フィルターが一時的に無効になります</string>
+    <string name="cp_hue">Hue</string>
+    <string name="cp_saturation">Saturation</string>
+    <string name="cp_value">Value</string>
+    <string name="cp_alpha">Alpha</string>
+    <string name="cp_red">Red</string>
+    <string name="cp_green">Green</string>
+    <string name="cp_blue">Blue</string>
+    <string name="number_picker_legend">Enter a number between %1$s and %2$s:</string>
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">透過範囲</string>

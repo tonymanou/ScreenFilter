@@ -48,6 +48,14 @@
     <!-- Color picker dialog -->
     <string name="realtime_preview">Náhľad zmien v reálnom čase</string>
     <string name="realtime_preview_warn">Filter stmavenia je dočasne zakázaný počas náhľadu</string>
+    <string name="cp_hue">Hue</string>
+    <string name="cp_saturation">Saturation</string>
+    <string name="cp_value">Value</string>
+    <string name="cp_alpha">Alpha</string>
+    <string name="cp_red">Red</string>
+    <string name="cp_green">Green</string>
+    <string name="cp_blue">Blue</string>
+    <string name="number_picker_legend">Enter a number between %1$s and %2$s:</string>
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">Rozsah priehľadnosti</string>

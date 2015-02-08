@@ -48,6 +48,14 @@
     <!-- Color picker dialog -->
     <string name="realtime_preview">Visualiser les changements en temps réel</string>
     <string name="realtime_preview_warn">Le filtre obscurcissant est désactivé temporairement prendant la prévisualisation</string>
+    <string name="cp_hue">Teinte</string>
+    <string name="cp_saturation">Saturation</string>
+    <string name="cp_value">Valeur</string>
+    <string name="cp_alpha">Alpha</string>
+    <string name="cp_red">Rouge</string>
+    <string name="cp_green">Vert</string>
+    <string name="cp_blue">Bleu</string>
+    <string name="number_picker_legend">Entrez un nombre entre %1$s et %2$s :</string>
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">Intervalle de transparence</string>
