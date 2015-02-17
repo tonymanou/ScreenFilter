@@ -40,6 +40,7 @@
     <string name="toggle_both">Toggle both</string>
 
     <!-- Customization -->
+    <string name="do_nothing">Do nothing</string>
     <string name="customize">Personalizar</string>
     <string name="double_tap">Doble toque</string>
     <string name="simple_press">Pulsación corta</string>

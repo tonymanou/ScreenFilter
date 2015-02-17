@@ -40,6 +40,7 @@
     <string name="toggle_both">切换至屏幕颜色过滤</string>
 
     <!-- Customization -->
+    <string name="do_nothing">Do nothing</string>
     <string name="customize">自定义</string>
     <string name="double_tap">双击</string>
     <string name="simple_press">点击</string>

@@ -40,6 +40,7 @@
     <string name="toggle_both">両方切り替える</string>
 
     <!-- Customization -->
+    <string name="do_nothing">Do nothing</string>
     <string name="customize">カスタマイズ</string>
     <string name="double_tap">ダブルタップ</string>
     <string name="simple_press">タップ</string>

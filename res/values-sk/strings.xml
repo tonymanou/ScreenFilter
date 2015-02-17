@@ -40,6 +40,7 @@
     <string name="toggle_both">Prepnúť filtre</string>
 
     <!-- Customization -->
+    <string name="do_nothing">Do nothing</string>
     <string name="customize">Prispôsobiť</string>
     <string name="double_tap">Dvojité kliknutie</string>
     <string name="simple_press">Jedno stlačenie</string>
