@@ -40,7 +40,7 @@
     <string name="toggle_both">切换至屏幕颜色过滤</string>
 
     <!-- Customization -->
-    <string name="do_nothing">Do nothing</string>
+    <string name="do_nothing">什么也不做</string>
     <string name="customize">自定义</string>
     <string name="double_tap">双击</string>
     <string name="simple_press">点击</string>
@@ -49,14 +49,14 @@
     <!-- Color picker dialog -->
     <string name="realtime_preview">实时预览</string>
     <string name="realtime_preview_warn">预览时会暂时禁用屏幕过滤</string>
-    <string name="cp_hue">Hue</string>
-    <string name="cp_saturation">Saturation</string>
-    <string name="cp_value">Value</string>
+    <string name="cp_hue">色调</string>
+    <string name="cp_saturation">饱和度</string>
+    <string name="cp_value">数值</string>
     <string name="cp_alpha">Alpha</string>
-    <string name="cp_red">Red</string>
-    <string name="cp_green">Green</string>
-    <string name="cp_blue">Blue</string>
-    <string name="number_picker_legend">Enter a number between %1$s and %2$s:</string>
+    <string name="cp_red">红</string>
+    <string name="cp_green">绿</string>
+    <string name="cp_blue">蓝</string>
+    <string name="number_picker_legend">输入介于 %1$s 和 %2$s 之间的数值:</string>
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">透明度范围</string>
