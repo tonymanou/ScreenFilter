@@ -6,7 +6,7 @@
     <!-- About -->
     <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> auf XDA)]]></string>
     <string name="about_translation">Übersetzungen:</string>
-    <string name="about_translator"></string>
+    <string name="about_translator"><![CDATA[<b>iBroLab</b>]]></string>
     <string name="about_thread">XDA Forum:</string>
     <string name="about_source">Quellcode:</string>
     <string name="about_libraries">Benutzte Bibliotheken:</string>
@@ -34,10 +34,10 @@
     <string name="toggle">Stelle ein</string>
 
     <!-- Shortcut -->
-    <string name="toggle_dim">Stelle den Verdunkelungsfilter ein</string>
-    <string name="toggle_color">Stelle den Farbfilter ein</string>
-    <string name="toggle_both_linked">Stelle beides ein (verknüpft)</string>
-    <string name="toggle_both">Stelle beides ein</string>
+    <string name="toggle_dim">Stell den Verdunkelungsfilter ein</string>
+    <string name="toggle_color">Stell den Farbfilter ein</string>
+    <string name="toggle_both_linked">Stell beides ein (verknüpft)</string>
+    <string name="toggle_both">Stell beides ein</string>
 
     <!-- Customization -->
     <string name="do_nothing">Mache nichts</string>
@@ -60,11 +60,11 @@
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">Transparenzbereich</string>
-	<string name="warn_min_transparency">Ich bin damit einverstanden, dass das Einstellen des Transparenzbereichs unter 40 möglicherweise das Display komplett schwarz färben kann und man nichts mehr sehen kann</string>
+    <string name="warn_min_transparency">Ich bin damit einverstanden, dass das Einstellen der Transparenzbereich unter 40 möglicherweise das Display komplett schwarz färben kann und man nichts mehr sehen kann</string>
 
     <!-- Error messages -->
     <string name="not_supported">Wird nicht unterstützt</string>
-    <string name="not_supported_by_rom">Wird bei manchen ROM´s nicht unterstützt</string>
+    <string name="not_supported_by_rom">Wird bei manchen ROM\'s nicht unterstützt</string>
     <string name="wrong_version">Screen Filter wurde aktualisiert.\n\nBitte starte dein Gerät neu, damit die Veränderungen übernommen werden können.</string>
     <string name="no_service">Filter-Service wurde nicht gefunden!\n\nÜberprüfe, dass Screen Filter im Xposed Installer aktiviert ist und starte anschließend dein Gerät neu.</string>
     <string name="fatal_error">Irgendetwas ist im SystemUI schiefgelaufen!\n\nBitte überprüfe die Xposed\'s Logs und melde den Fehler auf XDA.</string>
