@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="xposed_description">Füge ein Filter in deinen Bildschirm ein</string>
+
+    <!-- About -->
+    <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> auf XDA)]]></string>
+    <string name="about_translation">Übersetzungen:</string>
+    <string name="about_translator"><![CDATA[<b>iBroLab</b>]]></string>
+    <string name="about_thread">XDA Forum:</string>
+    <string name="about_source">Quellcode:</string>
+    <string name="about_libraries">Benutzte Bibliotheken:</string>
+
+    <!-- Toolbox -->
+    <string name="filter_off">AUS</string>
+
+    <!-- Filter settings -->
+    <string name="dim_filter">Verdunklungsfilter</string>
+    <string name="color_filter">Farbfilter</string>
+    <string name="transparency">Transparenz:</string>
+    <string name="min_transparency">Minimum:</string>
+    <string name="max_transparency">Maximum:</string>
+    <string name="set">Setze</string>
+    <string name="change">Verändere</string>
+    <string name="intensity">Intensität:</string>
+    <string name="color">Farbe</string>
+    <string name="temperature">Temperatur</string>
+    <string name="default_value">Standart:</string>
+
+    <!-- Locale/Tasker -->
+    <string name="donotchange">Verändere nichts</string>
+    <string name="enable">Aktiviere</string>
+    <string name="disable">Deaktiviere</string>
+    <string name="toggle">Stelle ein</string>
+
+    <!-- Shortcut -->
+    <string name="toggle_dim">Stell den Verdunkelungsfilter ein</string>
+    <string name="toggle_color">Stell den Farbfilter ein</string>
+    <string name="toggle_both_linked">Stell beides ein (verknüpft)</string>
+    <string name="toggle_both">Stell beides ein</string>
+
+    <!-- Customization -->
+    <string name="do_nothing">Mache nichts</string>
+    <string name="customize">Verändere</string>
+    <string name="double_tap">Doppeltes drücken</string>
+    <string name="simple_press">Einfaches drücken</string>
+    <string name="long_press">Langes drücken</string>
+
+    <!-- Color picker dialog -->
+    <string name="realtime_preview">Seh die Veränderungen in Echtzeit an</string>
+    <string name="realtime_preview_warn">Der Verdunkelungsfilter ist während der Vorschau deaktiviert</string>
+    <string name="cp_hue">Farbton</string>
+    <string name="cp_saturation">Sättigung</string>
+    <string name="cp_value">Wert</string>
+    <string name="cp_alpha">Alpha</string>
+    <string name="cp_red">Rot</string>
+    <string name="cp_green">Grün</string>
+    <string name="cp_blue">Blau</string>
+    <string name="number_picker_legend">Gebe eine Nummer zwischen %1$s und %2$s an:</string>
+
+    <!-- Transparency range dialog -->
+    <string name="transparency_range">Transparenzbereich</string>
+    <string name="warn_min_transparency">Ich bin damit einverstanden, dass das Einstellen der Transparenzbereich unter 40 möglicherweise das Display komplett schwarz färben kann und man nichts mehr sehen kann</string>
+
+    <!-- Error messages -->
+    <string name="not_supported">Wird nicht unterstützt</string>
+    <string name="not_supported_by_rom">Wird bei manchen ROM\'s nicht unterstützt</string>
+    <string name="wrong_version">Screen Filter wurde aktualisiert.\n\nBitte starte dein Gerät neu, damit die Veränderungen übernommen werden können.</string>
+    <string name="no_service">Filter-Service wurde nicht gefunden!\n\nÜberprüfe, dass Screen Filter im Xposed Installer aktiviert ist und starte anschließend dein Gerät neu.</string>
+    <string name="fatal_error">Irgendetwas ist im SystemUI schiefgelaufen!\n\nBitte überprüfe die Xposed\'s Logs und melde den Fehler auf XDA.</string>
+
+    <!-- Menu -->
+    <string name="menu_about">Über</string>
+    <string name="menu_filters">Filter</string>
+    <string name="menu_settings">Einstellungen</string>
+
+    <!-- Settings -->
+    <string name="settings_toolbox">Toolbox</string>
+    <string name="settings_show_toolbox">Zeige die Toolbox bei ausgeklappter Statusleiste</string>
+    <string name="settings_hide_toolbox">Verstecke, wenn der Filter deaktiviert ist</string>
+    <string name="settings_show_toolbox_notification">Zeige die Toolbox über die Benachrichtigungsleiste</string>
+    <string name="settings_show_toolbox_quicksettings">Zeige die Toolbox über die Schnelleinstellungen</string>
+    <string name="settings_toolbox_background">Benutze gefärbten Hintergrund</string>
+    <string name="settings_toolbox_tint">Färbe Text und Icon</string>
+    <string name="settings_other">Anderes</string>
+    <string name="settings_link_filters">Verknüpfe den Zustand der Farbe und des Verdunkelungsfilters</string>
+    <string name="settings_disable_hw_button_light">Deaktiviere die Touch-Key-Beleuchtung, wenn der Filter aktiv ist</string>
+    <string name="settings_enable_boot">Aktiviere beim Start</string>
+    <string name="settings_debug">Debug</string>
+    <string name="settings_debug_log">Debug Log (benötigt Neustart)</string>
+    <string name="please_reboot">Starte dein Gerät neu, um die Änderungen zu übernehmen</string>
+
+    <!-- Help -->
+    <string name="help">Hilfe</string>
+    <string name="help_open_activity">Öffne das Einstellungsfenster</string>
+    <string name="help_toggle_dim">Stell den Verdunkelungsfilter ein</string>
+    <string name="help_toggle_color">Stell den Farbfilter ein</string>
+    <string name="help_default_dim">Starte den Verdunklungsfilter mit dem Standardwert</string>
+    <string name="help_default_color">Starte den Farbfilter mit dem Standardwert</string>
+    <string name="help_use_default">Benutzte den Standardwert</string>
+    <string name="help_store_default">Setze den aktuellen Wert als Standard ein</string>
+
+</resources>
