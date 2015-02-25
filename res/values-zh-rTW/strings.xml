@@ -70,6 +70,8 @@
     <string name="fatal_error">系統使用者介面(SystemUI)發生錯誤！\n\n請確認 Xposed 的錯誤日誌並且在 XDA 回報這個錯誤。</string>
 
     <!-- Menu -->
+    <string name="navdrawer_open">Open navigation drawer</string> 
+    <string name="navdrawer_close">Close navigation drawer</string>
     <string name="menu_about">關於</string>
     <string name="menu_filters">Filters</string>
     <string name="menu_settings">設定</string>

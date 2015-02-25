@@ -70,6 +70,8 @@
     <string name="fatal_error">システムUIで問題が発生しました。\n\nXposedのログを確認してXDAでエラーを報告してください。</string>
 
     <!-- Menu -->
+    <string name="navdrawer_open">Open navigation drawer</string> 
+    <string name="navdrawer_close">Close navigation drawer</string>
     <string name="menu_about">情報</string>
     <string name="menu_filters">フィルター</string>
     <string name="menu_settings">設定</string>

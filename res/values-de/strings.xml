@@ -70,6 +70,8 @@
     <string name="fatal_error">Irgendetwas ist im SystemUI schiefgelaufen!\n\nBitte überprüfe die Xposed\'s Logs und melde den Fehler auf XDA.</string>
 
     <!-- Menu -->
+    <string name="navdrawer_open">Open navigation drawer</string> 
+    <string name="navdrawer_close">Close navigation drawer</string>
     <string name="menu_about">Über</string>
     <string name="menu_filters">Filter</string>
     <string name="menu_settings">Einstellungen</string>

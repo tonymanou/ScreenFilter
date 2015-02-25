@@ -70,6 +70,8 @@
     <string name="fatal_error">¡Algo salió mal en SystemUI!\n\nPor favor cheque los registros de Xposed\'s y reporte el error en XDA.</string>
 
     <!-- Menu -->
+    <string name="navdrawer_open">Open navigation drawer</string> 
+    <string name="navdrawer_close">Close navigation drawer</string>
     <string name="menu_about">Acerca de</string>
     <string name="menu_filters">Filtros</string>
     <string name="menu_settings">Ajustes</string>

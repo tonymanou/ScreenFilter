@@ -70,6 +70,8 @@
     <string name="fatal_error">Niečo sa pokazilo v používateľskom rozhraní systému!\n\nProsím, skontrolujte Xposed záznamy a nahláste chybu na XDA fóre.</string>
 
     <!-- Menu -->
+    <string name="navdrawer_open">Open navigation drawer</string> 
+    <string name="navdrawer_close">Close navigation drawer</string>
     <string name="menu_about">O aplikácii</string>
     <string name="menu_filters">Filtre</string>
     <string name="menu_settings">Nastavenia</string>

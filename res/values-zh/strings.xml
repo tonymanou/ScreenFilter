@@ -70,6 +70,8 @@
     <string name="fatal_error">系统用户界面出错！请检查Xposed安装器日志并请在XDA论坛将该错误报告给我。</string>
 
     <!-- Menu -->
+    <string name="navdrawer_open">Open navigation drawer</string> 
+    <string name="navdrawer_close">Close navigation drawer</string>
     <string name="menu_about">关于</string>
     <string name="menu_filters">过滤</string>
     <string name="menu_settings">设置</string>

@@ -70,6 +70,8 @@
     <string name="fatal_error">SystemUI\'de bir şeyler ters gitti!\n\nLütfen Xposed\'ın günlüklerini kontrol edin ve sorunu XDA\'da raporlayın.</string>
 
     <!-- Menu -->
+    <string name="navdrawer_open">Open navigation drawer</string> 
+    <string name="navdrawer_close">Close navigation drawer</string>
     <string name="menu_about">Hakkında</string>
     <string name="menu_filters">Filters</string>
     <string name="menu_settings">Ayarlar</string>

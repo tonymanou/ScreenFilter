@@ -70,6 +70,8 @@
     <string name="fatal_error">Er is iets fout gegaan in SystemUI!\n\nBekijk Xposed\'s logs en report de fout op XDA.</string>
 
     <!-- Menu -->
+    <string name="navdrawer_open">Open navigation drawer</string> 
+    <string name="navdrawer_close">Close navigation drawer</string>
     <string name="menu_about">Over</string>
     <string name="menu_filters">Filters</string>
     <string name="menu_settings">Instellingen</string>
