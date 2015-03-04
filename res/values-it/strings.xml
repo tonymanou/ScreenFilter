@@ -8,7 +8,7 @@
     <string name="about_translation">Traduzioni:</string>
     <string name="about_translator"><![CDATA[<b>mcbyte_it</b>]]></string>
     <string name="about_thread">Thread di supporto:</string>
-    <string name="about_source">Sorgente:</string>
+    <string name="about_source">Sorgenti:</string>
     <string name="about_libraries">Librerie usate:</string>
 
     <!-- Toolbox -->
@@ -17,7 +17,7 @@
     <!-- Filter settings -->
     <string name="dim_filter">Filtro di oscuramento</string>
     <string name="color_filter">Filtro di colore</string>
-    <string name="transparency">trasparenza:</string>
+    <string name="transparency">Trasparenza:</string>
     <string name="min_transparency">Minimo:</string>
     <string name="max_transparency">Massimo:</string>
     <string name="set">Imposta</string>
@@ -25,7 +25,7 @@
     <string name="intensity">Intensità:</string>
     <string name="color">Colore</string>
     <string name="temperature">Temperatura</string>
-    <string name="default_value">Default:</string>
+    <string name="default_value">Predefinito:</string>
 
     <!-- Locale/Tasker -->
     <string name="donotchange">Non modificare</string>
@@ -42,7 +42,7 @@
     <!-- Customization -->
     <string name="do_nothing">Non fare niente</string>
     <string name="customize">Personalizza</string>
-    <string name="double_tap">Doppio tap</string>
+    <string name="double_tap">Doppio tocco</string>
     <string name="simple_press">Tocco semplice</string>
     <string name="long_press">Tocco lungo</string>
 
@@ -60,7 +60,7 @@
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">Intervallo di trasparenza</string>
-    <string name="warn_min_transparency">Accetto il fatto che l\'utilizzo di una trasparenza minima al di sotto 40 può rendere il mio schermo completamente nero e illeggibile.</string>
+    <string name="warn_min_transparency">Accetto il fatto che l\'utilizzo di una trasparenza minima al di sotto di 40 può rendere il mio schermo completamente nero e illeggibile.</string>
 
     <!-- Error messages -->
     <string name="not_supported">Non supportata</string>
