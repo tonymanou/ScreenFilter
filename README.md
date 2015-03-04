@@ -38,6 +38,7 @@ Current:
 1. Dutch (nl)
 1. French (fr)
 1. German (de)
+1. Italian (it)
 1. Japanese (ja)
 1. Russian (ru)
 1. Slovak (sk)
