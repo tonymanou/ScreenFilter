@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="xposed_description">Aggiungi un filtro al tuo schermo</string>
+
+    <!-- About -->
+    <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> su XDA)]]></string>
+    <string name="about_translation">Traduzioni:</string>
+    <string name="about_translator"><![CDATA[<b>mcbyte_it</b>]]></string>
+    <string name="about_thread">Thread di supporto:</string>
+    <string name="about_source">Sorgenti:</string>
+    <string name="about_libraries">Librerie usate:</string>
+
+    <!-- Toolbox -->
+    <string name="filter_off">OFF</string>
+
+    <!-- Filter settings -->
+    <string name="dim_filter">Filtro di oscuramento</string>
+    <string name="color_filter">Filtro di colore</string>
+    <string name="transparency">Trasparenza:</string>
+    <string name="min_transparency">Minimo:</string>
+    <string name="max_transparency">Massimo:</string>
+    <string name="set">Imposta</string>
+    <string name="change">Cambia</string>
+    <string name="intensity">Intensità:</string>
+    <string name="color">Colore</string>
+    <string name="temperature">Temperatura</string>
+    <string name="default_value">Predefinito:</string>
+
+    <!-- Locale/Tasker -->
+    <string name="donotchange">Non modificare</string>
+    <string name="enable">Abilita</string>
+    <string name="disable">Disabilita</string>
+    <string name="toggle">Toggle</string>
+
+    <!-- Shortcut -->
+    <string name="toggle_dim">Toggle filtro di oscuramento</string>
+    <string name="toggle_color">Toggle filtro di colore</string>
+    <string name="toggle_both_linked">Toggle entrambi (legati)</string>
+    <string name="toggle_both">Toggle entrambi</string>
+
+    <!-- Customization -->
+    <string name="do_nothing">Non fare niente</string>
+    <string name="customize">Personalizza</string>
+    <string name="double_tap">Doppio tocco</string>
+    <string name="simple_press">Tocco semplice</string>
+    <string name="long_press">Tocco lungo</string>
+
+    <!-- Color picker dialog -->
+    <string name="realtime_preview">Anteprima i cambiamenti in tempo reale</string>
+    <string name="realtime_preview_warn">Il filtro di oscuramento è disabilitata temporaneamente durante l\'anteprima</string>
+    <string name="cp_hue">Tonalità</string>
+    <string name="cp_saturation">Saturazione</string>
+    <string name="cp_value">Valore</string>
+    <string name="cp_alpha">Alpha</string>
+    <string name="cp_red">Rosso</string>
+    <string name="cp_green">Verde</string>
+    <string name="cp_blue">Blue</string>
+    <string name="number_picker_legend">Inserire un numero compreso tra %1$s e %2$s:</string>
+
+    <!-- Transparency range dialog -->
+    <string name="transparency_range">Intervallo di trasparenza</string>
+    <string name="warn_min_transparency">Accetto il fatto che l\'utilizzo di una trasparenza minima al di sotto di 40 può rendere il mio schermo completamente nero e illeggibile.</string>
+
+    <!-- Error messages -->
+    <string name="not_supported">Non supportata</string>
+    <string name="not_supported_by_rom">Non supportata su alcune ROM</string>
+    <string name="wrong_version">Screen Filter è stato aggiornato,\n\nSi prega di riavviare il dispositivo per applicare le modifiche.</string>
+    <string name="no_service">Servizio filtro non trovato!\n\nControlla che Screen Filter è abilitato in Xposed Installer e riavviare il dispositivo.</string>
+    <string name="fatal_error">Qualcosa è andato storto in SystemUI!\n\nSi prega di controllare i log di Xposed e segnalare l\'errorore su XDA.</string>
+
+    <!-- Menu -->
+    <string name="navdrawer_open">Apri cassetto di navigazione</string>
+    <string name="navdrawer_close">Chiudi cassetto di navigazione</string>
+    <string name="menu_about">Info su</string>
+    <string name="menu_filters">Filtri</string>
+    <string name="menu_settings">Impostazioni</string>
+
+    <!-- Settings -->
+    <string name="settings_toolbox">Toolbox</string>
+    <string name="settings_show_toolbox">Mostra toolbox nella barra di stato estesa</string>
+    <string name="settings_hide_toolbox">Nascondi quando il filtro non è attivo</string>
+    <string name="settings_show_toolbox_notification">Mostra toolbox sopra le notifiche</string>
+    <string name="settings_show_toolbox_quicksettings">Mostra toolbox sopra gli impostazioni rapide</string>
+    <string name="settings_toolbox_background">Usa sfondo colorato</string>
+    <string name="settings_toolbox_tint">Tinta testo e icona</string>
+    <string name="settings_other">Altro</string>
+    <string name="settings_link_filters">Collegare lo stato dei filtri di colore e di oscuramento</string>
+    <string name="settings_disable_hw_button_light">Disattiva retroilluminazione dei tasti hardware quando il filtro è attivo</string>
+    <string name="settings_enable_boot">Abilita all\'avvio</string>
+    <string name="settings_debug">Debug</string>
+    <string name="settings_debug_log">Log di debug (necessario riavvio)</string>
+    <string name="please_reboot">Riavvia il dispositivo per applicare le modifiche</string>
+
+    <!-- Help -->
+    <string name="help">Aiuto</string>
+    <string name="help_open_activity">Apri le schermata di impostazioni</string>
+    <string name="help_toggle_dim">Toggle il filtro di oscuramento</string>
+    <string name="help_toggle_color">Toggle il filtro di colore</string>
+    <string name="help_default_dim">Attiva il filtro di oscuramento con i valori predefiniti</string>
+    <string name="help_default_color">Attiva il filtro di colore con i valori predefiniti</string>
+    <string name="help_use_default">Usa i valori predefiniti</string>
+    <string name="help_store_default">Salva il valore attuale come predefinito</string>
+
+</resources>
