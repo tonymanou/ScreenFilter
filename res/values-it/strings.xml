@@ -6,7 +6,7 @@
     <!-- About -->
     <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> su XDA)]]></string>
     <string name="about_translation">Traduzioni:</string>
-    <string name="about_translator"></string>
+    <string name="about_translator"><![CDATA[<b>mcbyte_it</b>]]></string>
     <string name="about_thread">Thread di supporto:</string>
     <string name="about_source">Sorgente:</string>
     <string name="about_libraries">Librerie usate:</string>
@@ -70,7 +70,7 @@
     <string name="fatal_error">Qualcosa è andato storto in SystemUI!\n\nSi prega di controllare i log di Xposed e segnalare l\'errorore su XDA.</string>
 
     <!-- Menu -->
-    <string name="navdrawer_open">Apri cassetto di navigazione</string> 
+    <string name="navdrawer_open">Apri cassetto di navigazione</string>
     <string name="navdrawer_close">Chiudi cassetto di navigazione</string>
     <string name="menu_about">Info su</string>
     <string name="menu_filters">Filtri</string>
