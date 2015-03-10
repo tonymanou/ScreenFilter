@@ -24,7 +24,7 @@
     <string name="change">変更</string>
     <string name="intensity">彩度:</string>
     <string name="color">色</string>
-    <string name="temperature">Temperature</string>
+    <string name="temperature">温度</string>
     <string name="default_value">デフォルト:</string>
 
     <!-- Locale/Tasker -->
@@ -40,7 +40,7 @@
     <string name="toggle_both">両方切り替える</string>
 
     <!-- Customization -->
-    <string name="do_nothing">Do nothing</string>
+    <string name="do_nothing">何もしない</string>
     <string name="customize">カスタマイズ</string>
     <string name="double_tap">ダブルタップ</string>
     <string name="simple_press">タップ</string>
@@ -49,14 +49,14 @@
     <!-- Color picker dialog -->
     <string name="realtime_preview">リアルタイムに変更をプレビューする</string>
     <string name="realtime_preview_warn">プレビュー中は調光フィルターが一時的に無効になります</string>
-    <string name="cp_hue">Hue</string>
-    <string name="cp_saturation">Saturation</string>
-    <string name="cp_value">Value</string>
-    <string name="cp_alpha">Alpha</string>
-    <string name="cp_red">Red</string>
-    <string name="cp_green">Green</string>
-    <string name="cp_blue">Blue</string>
-    <string name="number_picker_legend">Enter a number between %1$s and %2$s:</string>
+    <string name="cp_hue">色相</string>
+    <string name="cp_saturation">彩度</string>
+    <string name="cp_value">明度</string>
+    <string name="cp_alpha">アルファ</string>
+    <string name="cp_red">赤</string>
+    <string name="cp_green">緑</string>
+    <string name="cp_blue">青</string>
+    <string name="number_picker_legend">%1$sから%2$sまでの番号を入力してください:</string>
 
     <!-- Transparency range dialog -->
     <string name="transparency_range">透過範囲</string>
@@ -64,14 +64,14 @@
 
     <!-- Error messages -->
     <string name="not_supported">サポートされていません</string>
-    <string name="not_supported_by_rom">Not supported by some ROMs</string>
+    <string name="not_supported_by_rom">ROMによってはサポートされていません</string>
     <string name="wrong_version">Screen Filterが更新されました。\n\n変更を適用するには端末を再起動してください。</string>
     <string name="no_service">フィルターサービスが見つかりません。\n\nXposed InstallerでScreen Filterが有効になっているか確認して端末を再起動してください。</string>
     <string name="fatal_error">システムUIで問題が発生しました。\n\nXposedのログを確認してXDAでエラーを報告してください。</string>
 
     <!-- Menu -->
-    <string name="navdrawer_open">Open navigation drawer</string> 
-    <string name="navdrawer_close">Close navigation drawer</string>
+    <string name="navdrawer_open">ナビゲーションドロワーを開く</string> 
+    <string name="navdrawer_close">ナビゲーションドロワーを閉じる</string>
     <string name="menu_about">情報</string>
     <string name="menu_filters">フィルター</string>
     <string name="menu_settings">設定</string>
