@@ -1,105 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="xposed_description">Ekranınıza bir filtre ekleyin</string>
+    <string name="xposed_description">Ekranınız için bir filtre ekleyin</string>
 
     <!-- About -->
     <string name="about_author"><![CDATA[<b>tonymanou</b> (<b>tony78960</b> XDA\'da)]]></string>
-    <string name="about_translation">Translation:</string>
-    <string name="about_translator"><![CDATA[<b>AHOME</b>]]></string>
-    <string name="about_thread">Support thread:</string>
-    <string name="about_source">Source code:</string>
-    <string name="about_libraries">Kullanılan kitaplıklar:</string>
+    <string name="about_translation">Çeviri:</string>
+    <string name="about_translator">Biyoalp</string>
+    <string name="about_thread">Destek için:</string>
+    <string name="about_source">Kaynak kod:</string>
+    <string name="about_libraries">Kullanılan kütüphane:</string>
 
     <!-- Toolbox -->
     <string name="filter_off">KAPALI</string>
 
     <!-- Filter settings -->
-    <string name="dim_filter">Darkening filter</string>
-    <string name="color_filter">Color filter</string>
+    <string name="dim_filter">Kararan filtre</string>
+    <string name="color_filter">Renk filtresi</string>
     <string name="transparency">Saydamlık:</string>
-    <string name="min_transparency">Minimum:</string>
-    <string name="max_transparency">Maksimum:</string>
-    <string name="set">Set</string>
+    <string name="min_transparency">En Düşük:</string>
+    <string name="max_transparency">En Fazla:</string>
+    <string name="set">Ayarla</string>
     <string name="change">Değiştir</string>
-    <string name="intensity">Intensity:</string>
-    <string name="color">Color</string>
-    <string name="temperature">Temperature</string>
-    <string name="default_value">Default:</string>
+    <string name="intensity">Yoğunluk:</string>
+    <string name="color">Renk</string>
+    <string name="temperature">Sıcaklık</string>
+    <string name="default_value">Geçerli:</string>
 
     <!-- Locale/Tasker -->
-    <string name="donotchange">Do not change</string>
+    <string name="donotchange">Değiştirme</string>
     <string name="enable">Etkinleştir</string>
-    <string name="disable">Devre dışı</string>
-    <string name="toggle">Değiştir</string>
+    <string name="disable">Devre Dışı Bırak</string>
+    <string name="toggle">Geçiş</string>
 
     <!-- Shortcut -->
-    <string name="toggle_dim">Toggle darkening filter</string>
-    <string name="toggle_color">Toggle color filter</string>
-    <string name="toggle_both_linked">Toggle both (linked)</string>
-    <string name="toggle_both">Toggle both</string>
+    <string name="toggle_dim">Kararan filtre geçiş</string>
+    <string name="toggle_color">Renk filtresi geçiş</string>
+    <string name="toggle_both_linked">Her ikisi geçiş (bağlantılı)</string>
+    <string name="toggle_both">Her ikisi geçiş</string>
 
     <!-- Customization -->
-    <string name="do_nothing">Do nothing</string>
-    <string name="customize">Customize</string>
-    <string name="double_tap">Double tap</string>
-    <string name="simple_press">Simple press</string>
-    <string name="long_press">Long press</string>
+    <string name="do_nothing">Hiç bir şey yapma</string>
+    <string name="customize">Özelleştir</string>
+    <string name="double_tap">Çift dokunuş</string>
+    <string name="simple_press">Tek basış</string>
+    <string name="long_press">Uzun basış</string>
 
     <!-- Color picker dialog -->
-    <string name="realtime_preview">Preview the changes in real-time</string>
-    <string name="realtime_preview_warn">The darkening filter is temporarily disabled during preview</string>
-    <string name="cp_hue">Hue</string>
-    <string name="cp_saturation">Saturation</string>
-    <string name="cp_value">Value</string>
-    <string name="cp_alpha">Alpha</string>
-    <string name="cp_red">Red</string>
-    <string name="cp_green">Green</string>
-    <string name="cp_blue">Blue</string>
-    <string name="number_picker_legend">Enter a number between %1$s and %2$s:</string>
+    <string name="realtime_preview">Değişiklikleri gerçek zamanlı önizle</string>
+    <string name="realtime_preview_warn">Kararan filtre önizleme sırasında geçici olarak devre dışı bırakılır</string>
+    <string name="cp_hue">Renk</string>
+    <string name="cp_saturation">Doygunluk</string>
+    <string name="cp_value">Değer</string>
+    <string name="cp_alpha">Alfa</string>
+    <string name="cp_red">Kırmızı</string>
+    <string name="cp_green">Yeşil</string>
+    <string name="cp_blue">Mavi</string>
+    <string name="number_picker_legend">%1$s ve %2$s arasında bir numara girin:</string>
 
     <!-- Transparency range dialog -->
-    <string name="transparency_range">Saydamlık aralığı</string>
-    <string name="warn_min_transparency">Minimum saydamlığı 40\'ın altında ayarlamanın ekranımı tamamen siyah ve okunmaz yapabileceğini kabul ediyorum.</string>
+    <string name="transparency_range">Saydamlık sınırı</string>
+    <string name="warn_min_transparency">En düşük saydamlığı 40\'ın altında ayarlamanın ekranımı tamamen siyah ve okunmaz yapabileceğini kabul ediyorum.</string>
 
     <!-- Error messages -->
-    <string name="not_supported">Not supported</string>
-    <string name="not_supported_by_rom">Not supported by some ROMs</string>
+    <string name="not_supported">Desteklenmez</string>
+    <string name="not_supported_by_rom">Bazı ROM'lar tarafından desteklenmez</string>
     <string name="wrong_version">Screen Filter güncellendi,\n\n değişiklikleri uygulamak için lütfen cihazınızı yeniden başlatın.</string>
-    <string name="no_service">Filtre servisi bulunamadı!\n\nEkran Filtresi\'nin Xposed Yükleyici\'de aktif olduğunu kontrol ediniz ve cihazınızı yeniden başlatınız.</string>
-    <string name="fatal_error">SystemUI\'de bir şeyler ters gitti!\n\nLütfen Xposed\'ın günlüklerini kontrol edin ve sorunu XDA\'da raporlayın.</string>
+    <string name="no_service">Filtre servisi bulunamadı!\n\nScreen Filter\'in Xposed İnstaller\'da aktif olduğunu kontrol ediniz ve cihazınızı yeniden başlatın.</string>
+    <string name="fatal_error">SystemUI\'de bir şeyler ters gitti!\n\nLütfen Xposed\'un günlüklerini kontrol edin ve sorunu XDA\'da raporlayın.</string>
 
     <!-- Menu -->
-    <string name="navdrawer_open">Open navigation drawer</string> 
-    <string name="navdrawer_close">Close navigation drawer</string>
+    <string name="navdrawer_open">Navigasyon düzenleyiciyi aç</string> 
+    <string name="navdrawer_close">Navigasyon düzenleyiciyi kapat</string>
     <string name="menu_about">Hakkında</string>
-    <string name="menu_filters">Filters</string>
+    <string name="menu_filters">Filtreler</string>
     <string name="menu_settings">Ayarlar</string>
 
     <!-- Settings -->
-    <string name="settings_toolbox">Toolbox</string>
+    <string name="settings_toolbox">Araç Kutusu</string>
     <string name="settings_show_toolbox">Araç kutusunu genişletilmiş durum çubuğunda göster</string>
-    <string name="settings_hide_toolbox">Hide when the filter is not active</string>
+    <string name="settings_hide_toolbox">Filtre aktif olmadığında gizle</string>
     <string name="settings_show_toolbox_notification">Araç kutusunu bildirimlerin üzerinde göster</string>
     <string name="settings_show_toolbox_quicksettings">Araç kutusunu hızlı ayarların üzerinde göster</string>
-    <string name="settings_toolbox_background">Use colored background</string>
-    <string name="settings_toolbox_tint">Tint text and icon</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_link_filters">Link the state of color and darkening filters</string>
+    <string name="settings_toolbox_background">Renkli bir arka plan kullanın</string>
+    <string name="settings_toolbox_tint">Yazı ve simgeye renk ver</string>
+    <string name="settings_other">Diğer</string>
+    <string name="settings_link_filters">Renk ve kararan filtrelerin durumunu birleştir</string>
     <string name="settings_disable_hw_button_light">Filtre aktifken donanımsal tuşların arka ışıklarını devredışı bırak</string>
-    <string name="settings_enable_boot">Enable at device boot</string>
-    <string name="settings_debug">Debug</string>
+    <string name="settings_enable_boot">Cihazın açılışında etkinleştir</string>
+    <string name="settings_debug">Hata Ayıklama</string>
     <string name="settings_debug_log">Hata ayıklama günlüğü (yeniden başlatma gerektirir)</string>
-    <string name="please_reboot">Değişiklikleri uygulamak için cihazınızı yeniden başlatın</string>
+    <string name="please_reboot">Değişikliklerin uygulanması için cihazınızı yeniden başlatın</string>
 
     <!-- Help -->
-    <string name="help">Help</string>
-    <string name="help_open_activity">Open the settings activity</string>
-    <string name="help_toggle_dim">Toggle the darkening filter</string>
-    <string name="help_toggle_color">Toggle the color filter</string>
-    <string name="help_default_dim">Enable the darkening filter at the default value</string>
-    <string name="help_default_color">Enable the color filter at the default value</string>
-    <string name="help_use_default">Use the default value</string>
-    <string name="help_store_default">Store the current value as default</string>
+    <string name="help">Yardım</string>
+    <string name="help_open_activity">Ayarları açar</string>
+    <string name="help_toggle_dim">Kararan filtre için geçiş yapar</string>
+    <string name="help_toggle_color">Renk filtresi için geçiş yapar</string>
+    <string name="help_default_dim">Kararan filtrenin geçerli değerini etkinleştirir</string>
+    <string name="help_default_color">Renk filtresinin geçerli değerini etkinleştirir</string>
+    <string name="help_use_default">Geçerli değeri kullan</string>
+    <string name="help_store_default">Varsayılan olarak geçerli değeri hafızaya al</string>
 
 </resources>
